@@ -1,0 +1,300 @@
+# Mail & Notification System
+
+## Overview
+
+The Mail & Notification System is the central communication hub of Roblox Buddy AI. It allows players to receive rewards, gifts, announcements, Buddy letters, achievements, trades, and friend interactions while providing complete notification customization and permanent mail history.
+
+---
+
+# 📬 Mail Types
+
+## 👥 Friend Mail
+- Friend Requests
+- Best Friend Requests
+- Friend Messages
+- Friend Invitations
+
+---
+
+## 🎁 Gift Mail
+- Gifts received from friends
+- Reward claim mails
+- Accept / Reject / Claim Later
+
+---
+
+## 🤝 Trade Mail
+- Trade Requests
+- Trade Completed
+- Trade Cancelled
+- Trade Expired
+
+---
+
+## 🏆 Achievement Mail
+- Achievement unlocked
+- Achievement rewards
+- Secret achievement notifications
+
+---
+
+## 🎉 Event Mail
+- Event Start
+- Event Reminder
+- Event Ending Soon
+- Event Rewards
+
+---
+
+## 🤖 Buddy Mail
+
+Buddy can personally send letters such as:
+
+- Good Morning ❤️
+- Good Night 🌙
+- Birthday Wishes 🎂
+- Congratulations 🎉
+- Special Surprise Letters
+- Funny Messages
+- Motivation Messages
+
+Buddy Mail cannot be disabled because it is part of Buddy's personality.
+
+---
+
+## 💰 Economy Mail
+
+- Coins Received
+- XP Rewards
+- Buddy XP
+- Daily Rewards
+- Login Rewards
+
+---
+
+## 🛠️ System Mail
+
+- Maintenance
+- Bug Fixes
+- Important Information
+- Security Alerts
+
+---
+
+## 📢 Update / Announcement Mail
+
+- New Updates
+- Patch Notes
+- New Features
+- Developer Messages
+
+---
+
+# 🔔 Notification Types
+
+Players receive notifications for:
+
+- Friend Request
+- Best Friend Request
+- Party Invite
+- Trade Request
+- Gift Received
+- Chat Message
+- Buddy Message
+- Achievement Unlocked
+- Daily Reward Ready
+- Event Started
+- Event Ending Soon
+- Index Reward Ready
+- Marketplace Sale
+- Keyboard Marketplace Download
+- Profile Like
+- Profile Comment
+
+Blocked users cannot send notifications.
+
+---
+
+# ⚙ Notification Settings
+
+Players can individually enable or disable:
+
+- Friend Notifications
+- Trade Notifications
+- Gift Notifications
+- Chat Notifications
+- Event Notifications
+- Achievement Notifications
+- Marketplace Notifications
+- Profile Notifications
+- Sound
+- Pop-up Animation
+
+Buddy Mail is always enabled.
+
+---
+
+# 📩 Mail Features
+
+Every mail supports:
+
+- Read
+- Unread
+- Mark All Read
+- Delete
+- Favourite / Star
+- Search
+- Filters
+- Categories
+- Pin Mail
+
+---
+
+# 🎁 Gift Mail
+
+Gift mails include:
+
+- Accept
+- Reject
+- Claim Later
+
+Claimed gifts remain in mail history.
+
+---
+
+# 📎 Mail Attachments
+
+Mail attachments may contain:
+
+- Coins
+- XP
+- Buddy XP
+- Items
+- Titles
+- Frames
+- Themes
+- Badges
+
+All rewards use a Claim button.
+
+---
+
+# 📜 Mail History
+
+All mails remain permanently.
+
+Players may:
+
+- Delete mails manually
+- View deleted mail history
+- See claim status
+- See read date
+- See received date
+
+Deleted reward mails cannot be claimed again.
+
+---
+
+# 📌 Favourite Mail
+
+Players can mark important mails as Favourite.
+
+Favourite mails always appear at the top.
+
+Examples:
+
+- First Achievement
+- Founder Mail
+- Rare Event Reward
+- Birthday Letter
+
+---
+
+# 📊 Mail Statistics
+
+Players can view:
+
+- Total Mails Received
+- Total Buddy Letters
+- Total Gifts Claimed
+- Total Event Mails
+- Total Favourite Mails
+- Total Deleted Mails
+
+---
+
+# 🔔 Bell Notification System
+
+Whenever a new mail arrives:
+
+- Bell icon gets a red notification dot
+- Bell rings briefly
+- Small notification appears
+
+---
+
+# 📬 Buddy House Mailbox
+
+Buddy House contains a real Mailbox.
+
+When new mail arrives:
+
+- Mailbox shakes
+- Red notification appears
+- Buddy says:
+
+> "Shubh! Tumhare liye nayi mail aayi hai!"
+
+Players open the mailbox to read mails.
+
+---
+
+# 🎨 Mail Themes
+
+Players can customize the mailbox interface.
+
+Available themes:
+
+- Classic
+- Dark
+- Halloween
+- Christmas
+- Valentine
+- Neon
+
+More seasonal themes will be added in future updates.
+
+---
+
+# 🔒 Privacy
+
+Players control which notifications they receive.
+
+Friend Requests follow privacy settings:
+
+- Everyone
+- Friends Only
+- Nobody
+
+Blocked players cannot interact.
+
+---
+
+# 🤖 Buddy Integration
+
+Buddy participates throughout the system.
+
+Buddy can:
+
+- Celebrate rewards
+- Send surprise letters
+- Remind players about events
+- Wish birthdays
+- Congratulate achievements
+- Notify about daily rewards
+
+---
+
+# Long-Term Goal
+
+The Mail & Notification System will become the primary communication center of Roblox Buddy AI, permanently storing player history while connecting Friends, Trading, Economy, Achievements, Buddy, Buddy House, Inventory, Index, Events, Marketplace, and all future multiplayer systems into one seamless experience.
