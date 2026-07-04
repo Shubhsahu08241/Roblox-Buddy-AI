@@ -1,0 +1,279 @@
+# 🎄 Christmas Event - Frozen Giant Showdown
+
+## Overview
+
+Frozen Giant Showdown is one of the main multiplayer mini-games of the Christmas Event.
+
+Instead of fighting players directly, one player becomes the Giant Frozen Yeti whose goal is to stop everyone from completing the parkour.
+
+The remaining players must work together to reach the cannons and defeat the Giant Frozen Yeti before time runs out.
+
+---
+
+# 👥 Players
+
+- Minimum Players: 2
+- Maximum Players: 10
+
+Random Selection:
+
+👹 1 Player = Giant Frozen Yeti
+
+😊 Remaining Players = Survivors
+
+---
+
+# ❤️ Giant Frozen Yeti
+
+Health:
+
+1000 HP
+
+The Yeti cannot directly eliminate players.
+
+Instead, it creates obstacles and makes the parkour harder.
+
+---
+
+# 🎯 Survivor Objective
+
+Players must:
+
+- Complete the Frozen Parkour
+- Reach the Cannon Area
+- Enter the Cannon
+- Shoot the Giant Frozen Yeti
+
+Each successful cannon hit deals:
+
+25 Damage
+
+Total hits required:
+
+40 Cannon Hits
+
+---
+
+# 🔄 Respawn System
+
+If a survivor falls into the ice:
+
+❌ No elimination.
+
+Player respawns after:
+
+2 Seconds
+
+Respawn occurs at the starting area.
+
+The player must complete the parkour again.
+
+---
+
+# ❄️ Giant Frozen Yeti Shop
+
+The Giant Frozen Yeti continuously earns Ice Tokens during the match.
+
+Ice Tokens can be used to purchase obstacles.
+
+Examples:
+
+- Ice Wall
+- Slippery Floor
+- Snow Wind
+- Freeze Zone
+- Ice Spikes
+- Snow Storm
+- Ice Bridge Freeze
+- Moving Ice Blocks
+
+These obstacles are placed on the parkour route.
+
+---
+
+# ⚡ Giant Frozen Yeti Special Powers
+
+Special Powers cost more Ice Tokens.
+
+Examples:
+
+- Freeze Players (2 Seconds)
+- Entire Floor Slippery
+- Giant Snow Storm
+- Giant Ice Wall
+- Blizzard
+- Ice Trap
+- Snow Tornado
+
+These powers temporarily make the parkour much harder.
+
+---
+
+# 😊 Survivor Shop
+
+Players earn event currency during the match.
+
+They can purchase temporary upgrades.
+
+Examples:
+
+- Helmet
+- Speed Boots
+- Double Jump
+- Shield
+- Better Cannon Aim
+- Faster Reload
+
+All upgrades reset when the match ends.
+
+No permanent gameplay advantage exists.
+
+---
+
+# 🎮 Parkour Features
+
+The Frozen Parkour contains:
+
+🧊 Moving Ice Platforms
+
+🌉 Breaking Ice Bridges
+
+❄️ Slippery Floors
+
+🧊 Rotating Ice Platforms
+
+❄️ Frozen Jump Pads
+
+🪨 Ice Obstacles
+
+---
+
+# 🎁 Lucky Gift Boxes
+
+Hidden Gift Boxes appear during matches.
+
+Possible rewards:
+
+- Speed Boost
+- Shield
+- Double Jump
+- Bonus Event Currency
+- Temporary Buff
+
+---
+
+# ❄️ Snow Storm Round
+
+Sometimes the weather changes.
+
+Heavy snow reduces visibility.
+
+Players must carefully navigate the parkour.
+
+---
+
+# 🔔 Santa Bell
+
+Players can activate the Santa Bell.
+
+Effect:
+
+- Giant Frozen Yeti powers disabled for 10 seconds.
+
+This gives survivors a chance to attack.
+
+---
+
+# 🦌 Reindeer Assist
+
+Occasionally Santa's Reindeer appear.
+
+Possible bonuses:
+
+- Temporary Shortcut
+- Speed Boost
+- Bridge Repair
+- Event Currency
+
+---
+
+# 🤖 Buddy Rescue
+
+Players may rescue Buddy during the match.
+
+Reward:
+
+Temporary team-wide buff.
+
+Examples:
+
+- Faster Movement
+- Faster Reload
+- Jump Boost
+
+---
+
+# ⏱️ Last Minute Frenzy
+
+During the final phase:
+
+Both teams receive temporary boosts.
+
+Giant Frozen Yeti
+
+- Faster obstacle placement
+
+Survivors
+
+- Faster movement
+- Faster cannon reload
+
+Creates an exciting ending.
+
+---
+
+# 🎉 Victory
+
+## Survivors Win
+
+When the Giant Frozen Yeti reaches 0 HP.
+
+Celebration:
+
+- Santa Appears
+- Buddy Celebration
+- Christmas Fireworks
+- Rewards Distributed
+
+---
+
+## Giant Frozen Yeti Wins
+
+If time expires before survivors defeat it.
+
+Celebration:
+
+The Giant Frozen Yeti performs its victory animation.
+
+---
+
+# 🎁 Rewards
+
+Possible Rewards:
+
+- Coins
+- XP
+- Buddy XP
+- Gift Tokens
+- Christmas Stars
+- Candy Canes
+- Achievements
+- Event Progress
+
+---
+
+# Inspiration Note
+
+Frozen Giant Showdown was inspired by an old multiplayer game that the project creator loved watching years ago.
+
+Although the original game is no longer available, its spirit lives on through this completely original Christmas mini-game created for Roblox Buddy AI.
