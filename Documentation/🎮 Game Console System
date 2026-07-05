@@ -1,0 +1,358 @@
+# 🎮 Game Console System
+
+## Overview
+
+Buddy's house contains a special Game Console.
+
+The first time a player interacts with it, the console becomes permanently unlocked.
+
+After that, a new **🎮 Games** icon appears on the website UI.
+
+Players can access their games from anywhere.
+
+---
+
+# Unlock System
+
+Only the first 20 games are unlocked by default.
+
+All remaining games are hidden throughout Roblox Buddy AI.
+
+Players must explore the world to find them.
+
+Examples:
+
+- Hidden inside Buddy's house
+- Secret rooms
+- Treasure chests
+- Missions
+- Event rewards
+- Puzzle rewards
+- Hidden places around the website
+
+Once found,
+
+The game becomes permanently unlocked.
+
+---
+
+# Game Library
+
+Launch Library:
+
+20 Games
+
+Future Goal:
+
+200+ Mini Games
+
+Categories include:
+
+- Funny
+- Puzzle
+- Obby
+- Battle
+- Racing
+- Horror
+- Creative
+- Sports
+- Skill
+- Party
+- Kids
+- Rhythm
+
+---
+
+# Event Games
+
+Each seasonal event adds temporary games.
+
+Examples:
+
+Halloween
+
+- Ghost Escape
+- Pumpkin Hunt
+
+Christmas
+
+- Snowball Fight
+- Gift Rush
+
+Summer
+
+- Animal Challenge
+
+After the event ends,
+
+those games disappear until next year.
+
+---
+
+# Game Index
+
+Players have a Game Index.
+
+The index shows:
+
+- Total Games
+- Locked Games
+- Secret Games
+- Event Games
+- Completion Percentage
+
+Unlock milestones:
+
+25 Games
+
+↓
+
+50 Games
+
+↓
+
+75 Games → Secret Game Unlock
+
+↓
+
+100 Games
+
+↓
+
+150 Games
+
+↓
+
+200 Games
+
+---
+
+# Game Trading
+
+Players can trade games.
+
+Trading removes the playable copy,
+
+but the Game Index always remembers that the player previously unlocked it.
+
+Collection history is permanent.
+
+---
+
+# Game Marketplace
+
+Players can publish their own games.
+
+Marketplace shows:
+
+- Trending
+- New
+- Top Rated
+- Funny
+- Horror
+- Obby
+- Puzzle
+- Battle
+- Sports
+
+Every game includes:
+
+- Screenshots
+- Description
+- Rating
+- Reviews
+- Play Count
+
+---
+
+# Game Preview
+
+Before buying or downloading,
+
+players may preview any game.
+
+Preview includes:
+
+- Images
+- Gameplay Preview
+- Rules
+- Estimated Play Time
+- Ratings
+- Reviews
+
+---
+
+# Game Creator
+
+Players can create games.
+
+Two methods:
+
+## AI Builder
+
+Player simply describes the game.
+
+Example:
+
+"I want a 4-player funny obstacle game."
+
+AI automatically generates:
+
+- Map
+- Rules
+- Obstacles
+- Rewards
+
+---
+
+## Manual Builder
+
+Players build everything themselves.
+
+Features:
+
+- Drag & Drop
+- Copy
+- Paste
+- Delete
+- Rotate
+- Resize
+- Undo
+- Redo
+
+Everything is designed to be extremely easy.
+
+Even young children should be able to build games.
+
+---
+
+# AI Assistant
+
+Manual Builder includes an AI Assist button.
+
+Examples:
+
+"Add jungle."
+
+"Add obstacles."
+
+"Add trees."
+
+"Decorate this room."
+
+AI creates the requested objects.
+
+Players simply drag them into position.
+
+---
+
+# Tutorials
+
+Interactive tutorials teach:
+
+- Building
+- Publishing
+- AI Tools
+- Marketplace
+- Editing
+
+---
+
+# Weekly Featured Games
+
+Every week,
+
+featured games receive:
+
+- Double Rewards
+- Bonus Coins
+- Weekly Badges
+
+---
+
+# Secret Games
+
+Some games remain hidden.
+
+Players unlock them by:
+
+- Exploration
+- Achievements
+- Missions
+- Events
+- Secret Keys
+
+---
+
+# Remix System
+
+Players may remix another player's game.
+
+The original creator is automatically credited.
+
+Example:
+
+Original Creator:
+Shubh
+
+Remixed By:
+Alex
+
+Credit cannot be removed.
+
+---
+
+# Copyright Protection
+
+If someone copies another game without permission,
+
+the original creator may submit a copyright report.
+
+If confirmed:
+
+- Game removed
+- Warning issued
+- Publishing suspended for repeat offenders
+
+---
+
+# Game Versions
+
+Every published game stores version history.
+
+Example:
+
+Version 1.0
+
+↓
+
+Version 1.1
+
+↓
+
+Version 2.0
+
+Version history also records remix history.
+
+---
+
+# Creator Options
+
+Creators may choose:
+
+- Remix Allowed
+- Remix With Royalty
+- No Remix Allowed
+
+---
+
+# Design Goals
+
+- Extremely easy to use.
+- Mobile friendly.
+- Low-end phone support.
+- Safe for children.
+- Encourage creativity.
+- Encourage exploration.
+- Reward collectors.
+- Reward creators.
