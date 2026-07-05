@@ -1,0 +1,294 @@
+# 🤖 Future Feature — AI 3D Model Generator
+
+## Overview
+
+This is a future Roblox Buddy AI feature.
+
+It will NOT be available during the first launch.
+
+It is planned for a future major update.
+
+---
+
+# Goal
+
+Allow players to create professional 3D models without knowing 3D software.
+
+Everything should happen using AI.
+
+---
+
+# Image → 3D Model
+
+Players can upload an image.
+
+Examples:
+
+- Chair
+- Table
+- Car
+- House
+- Tree
+- Sword
+- Character
+- Animal
+
+AI automatically generates a complete 3D model.
+
+---
+
+# Text → 3D Model
+
+Players type:
+
+"Create a futuristic robot."
+
+AI generates:
+
+- 3D Mesh
+- Materials
+- Texture
+- Scale
+- Collision
+
+---
+
+# Drawing → 3D Model
+
+Players draw a simple sketch.
+
+AI converts it into a complete 3D object.
+
+---
+
+# Voice → 3D Model
+
+Players speak:
+
+"I want a flying pirate ship."
+
+AI generates it.
+
+---
+
+# Style Converter
+
+Players may convert styles.
+
+Examples:
+
+Realistic
+
+↓
+
+Roblox Style
+
+Cartoon
+
+↓
+
+Roblox Style
+
+Anime
+
+↓
+
+Low Poly
+
+Voxel
+
+↓
+
+Modern
+
+---
+
+# Automatic Optimization
+
+AI automatically creates multiple versions.
+
+Examples:
+
+Ultra Quality
+
+↓
+
+Medium Quality
+
+↓
+
+Low-End Version
+
+This allows every device to use the same model.
+
+---
+
+# Mobile Optimization
+
+AI automatically:
+
+- Reduces polygons
+- Compresses textures
+- Optimizes materials
+- Optimizes physics
+
+Designed for smooth gameplay on low-end phones.
+
+---
+
+# Automatic Collision
+
+AI creates collision automatically.
+
+Players do not need to configure it manually.
+
+---
+
+# Automatic Animation
+
+Supported models receive:
+
+- Idle
+- Walk
+- Run
+- Attack
+- Jump
+- Death
+
+Generated automatically.
+
+---
+
+# Material Generator
+
+Players may change materials.
+
+Examples:
+
+Wood
+
+Metal
+
+Stone
+
+Ice
+
+Fire
+
+Crystal
+
+Plastic
+
+Glass
+
+Gold
+
+---
+
+# Texture Generator
+
+AI can generate textures.
+
+Examples:
+
+Wood Texture
+
+Stone Texture
+
+Brick Texture
+
+Snow Texture
+
+Lava Texture
+
+Grass Texture
+
+---
+
+# AI Object Editor
+
+Players can request edits.
+
+Examples:
+
+"Make it bigger."
+
+"Make it red."
+
+"Add wings."
+
+"Remove the wheels."
+
+"Turn it into Roblox style."
+
+AI edits the existing model.
+
+---
+
+# AI Asset Optimizer
+
+One-click optimization.
+
+AI checks:
+
+- Polygon Count
+- Texture Size
+- Memory Usage
+- Physics Cost
+
+Then automatically optimizes the asset.
+
+---
+
+# Copyright Protection
+
+Uploaded images are scanned.
+
+If copyrighted content is detected,
+
+AI warns the player.
+
+Only original or permitted assets may be published.
+
+---
+
+# Future Marketplace Integration
+
+Creators can publish AI-generated assets.
+
+Other players can:
+
+- Preview
+- Download
+- Purchase
+- Rate
+- Review
+
+---
+
+# Future Vision
+
+Long-term goals include:
+
+- AI World Generator
+- AI NPC Generator
+- AI Vehicle Generator
+- AI Building Generator
+- AI Animation Generator
+- AI Sound Generator
+- AI Material Generator
+- AI Quest Generator
+- AI Story Generator
+
+---
+
+# Long-Term Goal
+
+Players should eventually be able to create an entire game using only:
+
+- Text
+- Voice
+- Images
+- Drawings
+
+without needing professional 3D modelling knowledge.
