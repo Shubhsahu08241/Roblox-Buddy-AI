@@ -1,0 +1,319 @@
+# ⚔️ Funny Battle Simulator
+
+## Overview
+
+Funny Battle Simulator is the largest permanent mini game introduced during the Roblox Buddy AI Anniversary Event.
+
+Players create their own armies, unlock units, fuse characters, build custom strategies, and fight in hilarious physics-based battles.
+
+This game is designed to become one of Roblox Buddy AI's signature games.
+
+---
+
+# 👥 Player Modes
+
+Supports:
+
+- 🤖 1 vs AI Buddy
+- ⚔️ 1 vs 1
+- 👥 2 vs 2
+- 👥 3 vs 3
+- 👥 5 vs 5
+- 👥 10 vs 10
+
+---
+
+# 🎯 Objective
+
+Defeat the opponent's army using strategy, unit combinations, teamwork and custom formations.
+
+---
+
+# 🪖 Army Creation
+
+Players can build armies in four different ways.
+
+## A. Budget Mode
+
+Players receive a limited budget.
+
+Each unit has a cost.
+
+Players must create the strongest army possible within the budget.
+
+---
+
+## B. Map Discovery
+
+Some units randomly spawn around maps.
+
+Players can explore and permanently unlock them.
+
+---
+
+## C. Trading
+
+Players can trade units with friends.
+
+---
+
+## D. Fusion Machine
+
+Players can fuse any two units.
+
+Examples:
+
+🤖 Robot + 🐔 Chicken
+
+👻 Ghost + 🎃 Pumpkin
+
+🎅 Santa + 🦌 Reindeer
+
+Unlimited combinations are possible.
+
+---
+
+# 🧬 Fusion System
+
+Unlimited Fusion Combinations.
+
+Every fusion combines:
+
+- Health
+- Damage
+- Special Ability
+- Appearance
+
+No rarity restrictions.
+
+---
+
+# 📖 Secret Recipe Book
+
+A hidden Recipe Book is located inside Buddy's House.
+
+The Recipe Book contains:
+
+- Known Recipes
+- Locked Recipes
+- Secret Recipes
+
+Each recipe displays:
+
+- Required Units
+- Health
+- Damage
+- Special Powers
+
+---
+
+# 📚 Fusion Index
+
+Separate from the Recipe Book.
+
+Players can track:
+
+- Discovered Fusions
+- Locked Fusions
+- Completion Progress
+
+---
+
+# 👤 Unit Classes
+
+Every unit belongs to a class.
+
+Examples:
+
+⚔️ Melee
+
+🏹 Archer
+
+🔫 Gunner
+
+🛡️ Tank
+
+⚡ Mage
+
+💉 Healer
+
+💣 Bomber
+
+🐎 Cavalry
+
+🤖 Mechanical
+
+👑 Boss
+
+Players unlock units permanently.
+
+---
+
+# 🎮 Player Control
+
+Players may choose:
+
+- Watch the battle
+- Control one unit directly
+- Become Army Leader
+- Fly above the battlefield and command the army
+
+---
+
+# 👑 Commander Mode
+
+Players command their army by clicking locations.
+
+Commands include:
+
+- Move
+- Attack
+- Defend
+- Follow
+- Retreat
+
+---
+
+# 🤖 AI Battle
+
+Players can test their army against Buddy AI.
+
+Difficulty:
+
+- Easy
+- Normal
+- Hard
+- Expert
+- Nightmare
+- Impossible
+
+---
+
+# 🗺️ Maps
+
+20+ maps planned.
+
+Examples:
+
+🎃 Haunted Graveyard
+
+🎄 Christmas Village
+
+☀️ Beach
+
+❄️ Ice Mountain
+
+❤️ Anniversary Arena
+
+More maps will be added in future updates.
+
+---
+
+# 😂 Funny Physics
+
+Every battle features exaggerated physics.
+
+Examples:
+
+- Flying Units
+- Rolling Characters
+- Explosions
+- Slow Motion
+- Knockback
+- Funny Falls
+
+---
+
+# ⚡ Special Powers
+
+Every unit has a unique special ability.
+
+Fusion creates new combined abilities.
+
+---
+
+# 🌦️ Random Battle Events
+
+Visual events may occur.
+
+Examples:
+
+- Rain
+- Snow
+- Thunder
+- Darkness
+- Volcano
+
+Gameplay is NOT affected.
+
+Players can disable visual events in Settings.
+
+---
+
+# 🎁 Rewards
+
+Players earn:
+
+- Coins
+- XP
+- Buddy XP
+- Fusion Materials
+- Units
+- Cosmetics
+- Leaderboard Points
+
+Luck influences bonus rewards.
+
+---
+
+# 🏆 Ranked Battles
+
+Ranks include:
+
+- Bronze
+- Silver
+- Gold
+- Diamond
+- Master
+- Champion
+- Legend
+
+---
+
+# 🎨 Custom Content
+
+Players may create:
+
+- Custom Maps
+- Custom Units
+- Custom Game Modes
+
+---
+
+# 🎥 Replay System
+
+Every completed battle can be replayed.
+
+Players can watch important moments again.
+
+---
+
+# 👀 Spectator Mode
+
+Players may freely spectate battles.
+
+They can switch between any surviving unit.
+
+---
+
+# Long-Term Vision
+
+Funny Battle Simulator is designed to become one of Roblox Buddy AI's biggest permanent games with unlimited replayability through custom armies, fusion mechanics, funny physics, and community creativity.
+
+---
+
+## Commit Message
+
+Add complete Funny Battle Simulator documentation
+
+This document defines Funny Battle Simulator, including army building, fusion, classes, commander mode, AI battles, ranked play, custom content, maps, rewards, replay system, and long-term gameplay vision.
