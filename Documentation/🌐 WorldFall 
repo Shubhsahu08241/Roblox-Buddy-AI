@@ -1,0 +1,103 @@
+🌍 Worldfall -- Master Game Design Document (Summary)
+Status: Core Design Complete
+🎮 Game
+Name: Worldfall
+Genre: Adventure, Exploration, Survival, Story, Co-op, Sci‑Fi, Open World
+Players: 1--4
+📖 Story
+Scientists discover an Ancient Energy. During research, corruption spreads across the world. The scientist who later becomes the King secretly experiments on himself to become stronger. Realizing the danger, he briefly suppresses the infection and hides the Ancient Energy into multiple fragments around the world before losing control. Governments collapse, humanity falls, and survivors gather in underground bunkers. The player's journey is to survive, uncover the truth, and decide humanity's future.
+👑 Endings
+Kill the King (virus continues, army collapses)
+Save the King and destroy the source
+Future chapters continue after the ending
+🏠 Bunker
+Government bunker
+50--100 survivors
+Rooms: Living, Lab, Medical, Workshop, Kitchen, Storage, Generator, Security, Communication
+One room per family
+Random layout every server
+Security built by players and NPCs
+👥 NPC System
+Professions with personalities
+Friendship, reputation and family
+NPCs have hobbies and memories
+Collector, Farmer, Scientist, Doctor, Engineer, Blacksmith, Trader, etc.
+Multiple professions possible
+NPCs teach skills
+🧬 DNA & Cure
+DNA sample before infection
+Cure research takes time
+Original DNA gives highest chance to save infected player
+☣️ Virus
+Blood infection is most dangerous
+Operations and research required
+Multiplayer players can rescue infected friends
+Single-player depends on NPC relationships
+👹 Monsters
+Personality-based evolution
+One King
+Ministers, Commanders, Soldiers
+Wildlife is infected but not part of hierarchy
+❤️ Family & Emotion
+Families can die, become infected, or influence NPC behaviour
+Emotional memories create unique encounters
+🌾 Survival
+Farming
+Hunting
+Water collection
+Food spoilage
+Weather effects
+💰 Economy
+Currency: Credits
+Physical notes and digital payments
+Trading with NPCs
+Reputation affects prices
+🚗 Vehicles
+Cars, bikes, helicopters, custom vehicles
+Fuel, repair, durability
+Vehicle crafting
+⚔ Combat
+Melee
+Guns
+Armor
+Durability
+Martial arts training
+Throw almost any object
+🎒 Inventory
+Backpack
+Weight system
+Storage
+Quick slots
+📦 Loot
+Logical loot placement
+Randomized per server
+Secret rooms
+Locked loot
+Story notes
+🌐 Language
+Full game language selection
+Hinglish supported
+Country flags and examples
+Voice packs
+🎙 Voice
+Character voice by language
+User can record custom voices later
+🥚 Easter Eggs
+Hidden Hacker NPC → Sandbox
+Survival Shrine → Survival Challenge
+Developer Room → Secret Developer Mode
+Community puzzle with global Hall of Fame
+🎮 Modes
+Story
+Multiplayer
+Sandbox (unlock)
+Hardcore (unlock)
+Survival Challenge (unlock)
+Exploration
+Custom
+🏆 Leaderboards
+Unlocked after story progress. - Story - Survival - Hardcore - Secret Hunter
+📜 Rules
+Original mechanics
+Inspiration allowed, copying not allowed
+Finalized systems should not change without strong reason.
