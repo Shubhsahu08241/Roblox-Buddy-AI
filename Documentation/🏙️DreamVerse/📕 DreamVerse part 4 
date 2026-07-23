@@ -1,0 +1,338 @@
+# 🍳 TasteCraft
+
+> **Cook → Design → Serve → Manage → Build Your Own Food Empire**
+
+---
+
+# 🌟 Core Idea
+
+TasteCraft sirf cooking game nahi hai.
+
+Ye ek complete food business simulation hai jahan player apna food empire bana sakta hai.
+
+Player ban sakta hai:
+
+- 👨‍🍳 Chef
+- 🍔 Restaurant Owner
+- ☕ Cafe Owner
+- 🍰 Baker
+- 🚚 Food Truck Owner
+- 🌾 Farmer
+- 🥛 Dairy Owner
+- 🍣 Sushi Master
+
+---
+
+# 🏪 Restaurant System
+
+## Restaurant Ownership
+
+Player choose kar sakta hai:
+
+- Employee
+- Owner
+- Co-Owner (Friends ke saath)
+
+Roles:
+
+- Chef
+- Waiter
+- Cashier
+- Cleaner
+- Manager
+- Delivery Driver
+
+---
+
+## Restaurant Builder
+
+Restaurant ko poori freedom ke saath design kar sakte ho.
+
+- Multiple Floors
+- Garden
+- Fountain
+- Stage
+- Game Zone
+- Gym
+- Shops
+- Decorations
+- Interior Design
+- Exterior Design
+
+Open Kitchen / Closed Kitchen dono option.
+
+---
+
+# 👨‍🍳 Cooking System
+
+Players:
+
+- Recipe Book follow kar sakte hain
+- Khud recipes invent kar sakte hain
+- Signature Dish bana sakte hain
+- Recipe Book unlock kar sakte hain
+
+---
+
+# 📖 Recipe Book
+
+Har successful custom recipe automatically Recipe Book me save hogi.
+
+---
+
+# ⭐ Signature Dish
+
+Player customize kar sakta hai:
+
+- Dish Name
+- Description
+- Presentation
+
+Restaurant ki special dish ban jayegi.
+
+---
+
+# 🌍 World Cuisine
+
+Har country ki famous dishes.
+
+Har state/province ki regional dishes.
+
+---
+
+# 🌾 Farming
+
+Restaurant ke ingredients khud produce kar sakte ho.
+
+Examples:
+
+- Vegetables
+- Fruits
+- Wheat
+- Rice
+- Dairy
+- Fish
+- Meat
+
+---
+
+# 📦 Order System
+
+Orders aa sakte hain:
+
+- Restaurant
+- Mobile App
+- Home Delivery
+- Wedding
+- Birthday
+- School
+- Festival
+- Corporate
+
+---
+
+# 📱 Restaurant Tablet
+
+Tablet se order kar sakte ho:
+
+- Ingredients
+- Kitchen Machines
+- Furniture
+- Decorations
+- Equipment
+
+---
+
+# 😊 Customer AI
+
+Customers:
+
+- Reviews denge
+- Suggestions denge
+- Questions poochhenge
+
+Har customer ki alag personality hogi.
+
+---
+
+# ⭐ Food Critic
+
+Kabhi-kabhi secret Food Critic NPC aayega.
+
+Achhi rating →
+
+Restaurant famous.
+
+---
+
+# 💰 Restaurant Growth
+
+Unlock:
+
+- Pizza Oven
+- Coffee Machine
+- Cake Machine
+- Sushi Table
+- Better Stove
+- Decorations
+
+---
+
+# 🤝 Multiplayer
+
+Friends ke saath:
+
+- Restaurant chalana
+- Team Cooking
+- Different Roles
+
+---
+
+# 🎉 Events
+
+- Master Chef Championship
+- Food Festival
+- Country Food Week
+- Seasonal Events
+
+---
+
+# 🎁 Secret Ingredients
+
+- 🍫 Fake Chocolate
+- 🌶 Dragon Spice
+- 🌈 Rainbow Syrup
+- ⭐ Golden Cheese
+- ☁ Cloud Cream
+- 🦄 Unicorn Milk
+- 🌙 Moon Sugar
+- ⚡ Lightning Lemon
+
+---
+
+# 🎁 Mystery Box
+
+Rewards:
+
+- Common
+- Rare
+- Epic
+- Legendary
+- Mythic
+
+Kabhi-kabhi Developer Gift Box bhi milega.
+
+---
+
+# 🥚 Easter Eggs
+
+Har Easter Egg me kam se kam ek cheez hogi:
+
+- 😂 Funny Moment
+- 😲 Surprise
+- ❤️ Emotion
+- 🧩 Mystery
+- 🎁 Reward
+
+---
+
+# 🌟 Legendary NPCs
+
+## 😏 The Trickster
+
+- Funny puzzles
+- Player ko confuse karta hai
+- Har baar naya prank
+
+---
+
+## 👨‍💻 The Hacker
+
+Unlock karta hai:
+
+- Custom Clothes
+- Decorations
+- Furniture
+- Recipes
+
+Trust Level system.
+
+---
+
+## 🕶 The Hacker But The Scammer
+
+- Fake Hacker
+- Coins lekar bhaag sakta hai
+- Kabhi-kabhi asli Hacker ke saath partner hota hai
+
+---
+
+## 🎩 The Deal Maker
+
+Har reward ke badle ek deal.
+
+Kabhi free reward nahi.
+
+---
+
+## 😊 Lucky Uncle
+
+Random lucky rewards.
+
+---
+
+## 🤫 Secret Collector
+
+Hidden maps aur secret hints.
+
+---
+
+## 💤 Sleeping Grandpa
+
+Patience reward NPC.
+
+---
+
+## 🤖 Lost Robot
+
+Robot ke parts collect karo.
+
+Friend banao.
+
+---
+
+## 🧹 Invisible Cleaner
+
+Secret passages jaanta hai.
+
+---
+
+## 😐 Silent Man
+
+Bahut rare dialogue.
+
+---
+
+## 🌍 Traveler
+
+Countries ke secret hints deta hai.
+
+---
+
+## 🧒 Curious Kid
+
+Funny questions.
+
+Player ke answers yaad rakhta hai.
+
+---
+
+## 👵 Grandma Chef
+
+Legendary secret recipes.
+
+---
+
+# 🎯 Final Identity
+
+**Cook → Design → Serve → Manage → Explore → Discover Secrets → Build Your Own Food Empire**
