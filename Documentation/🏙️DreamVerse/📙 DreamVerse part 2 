@@ -1,0 +1,1054 @@
+DreamVerse Notebook
+
+Mega Mini Game #1 — BuildVerse
+
+Discussion Archive (Part 1)
+
+---
+
+Introduction
+
+BuildVerse DreamVerse ke andar ek Mega Mini Game hai.
+
+Iska main concept sirf city banana nahi hai.
+
+Iska asli goal hai:
+
+«"Build a City, Then Live Inside It."»
+
+Player sirf buildings place nahi karega.
+
+Player apni banayi hui city ke andar:
+
+- Walk karega.
+- Car drive karega.
+- Buildings ke andar enter karega.
+- NPCs ke saath interact karega.
+- Apni city ko ek living world ki tarah experience karega.
+
+Ye BuildVerse ko normal city-building games se alag banata hai.
+
+---
+
+Mega Mini Game Structure
+
+DreamVerse ke andar bahut saare Mega Mini Games honge.
+
+BuildVerse unme se pehla Mega Mini Game hai.
+
+Concept:
+
+DreamVerse
+│
+├── BuildVerse
+├── FashionVerse
+├── FoodVerse
+├── DriveVerse
+├── SportsVerse
+├── PartyVerse
+├── AdventureVerse
+├── PetVerse
+├── CreativeVerse
+└── FamilyVerse
+
+Har Mega Mini Game ke andar us category ke multiple game modes honge.
+
+---
+
+BuildVerse Core Concept
+
+Player ko shuru me ek city milegi.
+
+Wo us city ka:
+
+- Owner
+- Mayor
+
+dono hoga.
+
+Player chahe to future me aur cities bhi bana sakta hai.
+
+---
+
+Residential System
+
+Player decide karega:
+
+- Residential Area
+- Commercial Area
+- Government Area
+- Industrial Area
+- Park Area
+
+Lekin BuildVerse me sirf zoning nahi hogi.
+
+Player chahe to manually bhi buildings place kar sakega.
+
+Isse freedom aur creativity dono milengi.
+
+---
+
+Government Buildings
+
+Player khud decide karega ki city me kya-kya hoga.
+
+Examples:
+
+- School
+- College
+- University
+- Hospital
+- Clinic
+- Police Station
+- Fire Station
+- Library
+- Museum
+- Community Hall
+- Stadium
+- Airport
+- Railway Station
+- Bus Depot
+- Metro Station
+- Shopping Mall
+- Restaurant Area
+- Bank
+- Hotel
+- Market
+- Warehouse
+
+Government Buildings sirf bahar se nahi.
+
+Andar bhi customize kiye ja sakenge.
+
+---
+
+Full Interior Customization
+
+Har building ke andar player customize kar sakega:
+
+- Furniture
+- Wall Color
+- Floor
+- Ceiling
+- Lights
+- Decoration
+- Plants
+- Posters
+
+Government buildings bhi unique design kiye ja sakenge.
+
+---
+
+Full Exterior Customization
+
+Player customize kar sakega:
+
+- Roof
+- Windows
+- Doors
+- Garden
+- Fence
+- Parking
+- Logo
+- Flags
+- Street Decoration
+
+Har city doosri city se alag dikh sakti hai.
+
+---
+
+City Rating System
+
+BuildVerse me city automatically evaluate hogi.
+
+Parameters:
+
+- Citizen Happiness
+- Traffic
+- Crime
+- Health
+- Education
+- Environment
+- Electricity
+- Water
+- Housing
+- Economy
+
+Example:
+
+Poor City
+
+Income:
+Low
+
+Citizens:
+Unhappy
+
+Traffic:
+High
+
+Crime:
+High
+
+---
+
+Excellent City
+
+Income:
+High
+
+Citizens:
+Very Happy
+
+Traffic:
+Smooth
+
+Crime:
+Low
+
+Environment:
+Excellent
+
+Ye report player ko batayegi ki city me kya improve karna hai.
+
+---
+
+Emergency Services
+
+Emergency system realistic hoga.
+
+Police Station agar bahut dur hua:
+
+Police late pahunchengi.
+
+Fire Station dur hua:
+
+Fire zyada fail sakti hai.
+
+Hospital dur hua:
+
+Ambulance ko zyada time lagega.
+
+Road planning directly emergency response ko affect karegi.
+
+---
+
+Utilities
+
+Har city me permanently ye systems honge.
+
+Water Supply
+
+- Water Pump
+- Water Tank
+- Pipeline
+- Water Treatment Plant
+
+Electricity
+
+- Solar Plant
+- Wind Farm
+- Coal Plant
+- Gas Plant
+- Hydroelectric Dam
+- Nuclear Power Plant
+
+Gas
+
+- Storage
+- Pipelines
+
+Internet
+
+- Mobile Tower
+- Data Center
+- Internet Lines
+
+Waste
+
+- Garbage Collection
+- Recycling
+- Landfill
+- Sewage Plant
+
+Ye sab systems connected honge.
+
+Agar pipeline ya power line toot gayi to us area ki service band ho jayegi.
+
+---
+
+(Continue in Part 2...)
+
+DreamVerse Notebook
+
+Mega Mini Game #1 — BuildVerse
+
+Discussion Archive (Part 2)
+
+---
+
+Maintenance Department
+
+Har utility aur government service ki apni maintenance team hogi.
+
+Departments:
+
+- Water Department
+- Electricity Department
+- Gas Department
+- Police Department
+- Fire Department
+- Hospital Department
+- Garbage Department
+- Internet Department
+- Railway Department
+- Airport Department
+- Park Department
+
+Har department me maximum 10 workers rakhe ja sakte hain.
+
+Player decide karega:
+
+- Kisko hire karna hai.
+- Kisko fire karna hai.
+- Kisko promotion dena hai.
+
+Har NPC worker ka profile hoga.
+
+Example:
+
+- Age
+- Experience
+- Education
+- Skills
+- Behaviour
+- Salary
+- Performance
+- Attendance
+
+---
+
+Job Application Center
+
+Har department ka apna Office hoga.
+
+NPC khud jobs ke liye apply karenge.
+
+Player unka profile dekhkar select karega.
+
+Agar city badi hogi to skilled workers ki demand bhi badhegi.
+
+---
+
+Employee Salary System
+
+Har employee ko regular salary deni hogi.
+
+Agar salary bahut din tak nahi mili:
+
+- Motivation kam hoga.
+- Complaint karega.
+- Job chhod sakta hai.
+- Dusri city me shift bhi ho sakta hai.
+
+Agar worker kaamchor hua:
+
+Player usko:
+
+- Warning de sakta hai.
+- Training de sakta hai.
+- Fire kar sakta hai.
+
+---
+
+Tax System
+
+Tax system simple aur fun rahega.
+
+Player sliders ke through tax decide karega.
+
+Examples:
+
+- House Tax
+- Shop Tax
+- Factory Tax
+- Vehicle Tax
+- Event Tax
+
+Sab percentage me honge.
+
+Example:
+
+House Tax = 5%
+
+Shop Tax = 8%
+
+Factory Tax = 10%
+
+Agar tax bahut zyada hua:
+
+Citizens complaint karenge.
+
+Happiness kam hogi.
+
+Agar tax bahut kam hua:
+
+Citizens khush rahenge.
+
+Lekin Government ki income kam ho jayegi.
+
+Player ko balance maintain karna padega.
+
+---
+
+Citizen Complaint System
+
+NPC sirf Report Card me numbers nahi honge.
+
+Wo directly Mayor ko messages bhejenge.
+
+Examples:
+
+💧 Water Problem
+
+"3 din se pani nahi aa raha."
+
+⚡ Electricity
+
+"Bijli baar-baar ja rahi hai."
+
+🏫 School
+
+"School bahut chhota pad gaya."
+
+🚔 Police
+
+"Police bahut late aati hai."
+
+🏥 Hospital
+
+"Hospital me beds kam hain."
+
+---
+
+Complaint Levels
+
+Problems badhne ke saath complaint tone bhi badhega.
+
+Level 1
+
+"Thoda dhyan dijiye."
+
+Level 2
+
+"Ye problem baar-baar ho rahi hai."
+
+Level 3
+
+"Mayor ji, ab isko theek kariye."
+
+Level 4
+
+"Hum bahut pareshan hain."
+
+Level 5
+
+"Agar aisa hi raha to hum vote nahi denge."
+
+Ye election system se bhi connect hoga.
+
+---
+
+Town Hall
+
+Town Hall BuildVerse ka main government building hoga.
+
+Yahan:
+
+Citizens
+
+Police
+
+Doctors
+
+Teachers
+
+Firefighters
+
+sab Mayor se mil sakte hain.
+
+Example:
+
+"Hamare area me school chahiye."
+
+"Police station bahut dur hai."
+
+"Hospital upgrade kariye."
+
+Mayor priorities decide karega.
+
+---
+
+Government Departments
+
+Government Buildings me ye departments bhi honge.
+
+- Municipal Office
+- Citizen Service Center
+- Housing Department
+- Tourism Office
+- Forest Department
+- Agriculture Department
+- Employment Office
+- Construction Department
+- Statistics Department
+- Finance Department
+- City Planning Department
+
+---
+
+Court System
+
+Court aur Lawyer system bhi hoga.
+
+Buildings:
+
+- Court
+- Judge Office
+- Lawyer Office
+
+Mayor chahe to:
+
+Khud Judge ban sakta hai.
+
+Ya NPC Judge appoint kar sakta hai.
+
+Funny cases bhi ho sakte hain.
+
+Examples:
+
+"Meri gaadi galat park hui."
+
+"Padosi ne mera ped kaat diya."
+
+Serious cases:
+
+- Theft
+- Accident
+- Property Dispute
+
+Judge final decision dega.
+
+---
+
+Election System
+
+Election sirf Multiplayer city me hoga.
+
+1 Player
+
+Election nahi.
+
+2 ya usse zyada players
+
+Election possible.
+
+Roles:
+
+Mayor
+
+Deputy Mayor
+
+City Manager
+
+Mayor departments assign kar sakta hai.
+
+Deputy Mayor Mayor ki help karega.
+
+Mayor offline hua to temporary responsibility Deputy Mayor sambhalega.
+
+---
+
+Building Upgrade Levels
+
+Har Government Building ke 5 Levels honge.
+
+Example:
+
+Hospital
+
+Level 1
+
+Clinic
+
+↓
+
+Level 2
+
+Community Hospital
+
+↓
+
+Level 3
+
+City Hospital
+
+↓
+
+Level 4
+
+Medical Center
+
+↓
+
+Level 5
+
+Super Specialty Hospital
+
+Isi tarah:
+
+Police
+
+Fire Station
+
+Railway
+
+Airport
+
+Museum
+
+Library
+
+Mall
+
+Power Plant
+
+sabke levels honge.
+
+Upgrade ke liye sirf paise nahi.
+
+Need:
+
+- Money
+- Materials
+- Workers
+- City Reputation
+
+---
+
+City Reputation
+
+City Reputation ke stages:
+
+⭐ 1 Star
+
+Village
+
+⭐⭐
+
+Town
+
+⭐⭐⭐
+
+Modern City
+
+⭐⭐⭐⭐
+
+Smart City
+
+⭐⭐⭐⭐⭐
+
+Dream City
+
+Reputation badhne par:
+
+- New Buildings Unlock
+- New Decorations
+- New NPC Professions
+- Special Festivals
+- New Features
+
+Unlock honge.
+
+---
+
+(Continue in Part 3...)
+
+DreamVerse Notebook
+
+Mega Mini Game #1 — BuildVerse
+
+Discussion Archive (Part 3)
+
+---
+
+News System
+
+Har city ka apna media network hoga.
+
+Types:
+
+- TV News
+- Mobile News
+- Newspaper
+- Radio
+
+News automatically generate hogi.
+
+Examples:
+
+- Weather
+- Crime
+- Festival
+- Economy
+- Elections
+- Traffic
+- Emergency
+- Government Projects
+
+---
+
+Fake News System
+
+Kabhi-kabhi Fake News bhi aa sakti hai.
+
+Example:
+
+«"Mayor ne Tax double kar diya."»
+
+Agar ye jhooth hua aur City Trust high hai:
+
+Citizens ignore karenge.
+
+Agar Trust low hai:
+
+- Panic ho sakta hai.
+- Protest ho sakta hai.
+- Mayor ko official statement dena padega.
+
+---
+
+City Archive
+
+Har city ki history permanently save hogi.
+
+Examples:
+
+- Pehla ghar kab bana.
+- Pehla citizen kab aaya.
+- Pehla hospital kab bana.
+- Pehla Mayor kaun tha.
+- Sabse bada Festival kab hua.
+- Sabse badi Emergency kab aayi.
+
+Player kabhi bhi city ka pura history dekh sakta hai.
+
+---
+
+Full 3D World
+
+BuildVerse sirf top view game nahi hoga.
+
+Player:
+
+- First Person
+- Third Person
+
+dono modes me city explore kar sakega.
+
+Player:
+
+- Ghar ke andar ja sakta hai.
+- Hospital ke andar.
+- School ke andar.
+- Mall ke andar.
+- Museum ke andar.
+
+Pure city ko walk karke explore kar sakta hai.
+
+---
+
+Unlimited Decoration
+
+Player city me freely decorate kar sakta hai.
+
+Examples:
+
+- Trees
+- Flowers
+- Cherry Blossom
+- Fountain
+- Statue
+- Bench
+- Street Lights
+- Lakes
+- Rivers
+- Garden
+
+City ko apni imagination ke hisaab se design kar sakta hai.
+
+---
+
+Smart City Simulation
+
+Har service ka real effect hoga.
+
+Examples:
+
+Police kam:
+
+Crime badhega.
+
+Hospital kam:
+
+Health giregi.
+
+School kam:
+
+Education giregi.
+
+Garbage collect nahi hua:
+
+Environment kharab hoga.
+
+Electricity gayi:
+
+Factories aur houses affect honge.
+
+Water supply band:
+
+Citizens complaint karenge.
+
+Internet band:
+
+Businesses aur offices affect honge.
+
+---
+
+Build With Friends
+
+Phone me option hoga:
+
+Build Together
+
+Owner friend ko invite karega.
+
+Permissions:
+
+✅ Build
+
+✅ Delete
+
+✅ Paint
+
+✅ Roads
+
+✅ Government Buildings
+
+✅ Furniture
+
+👀 View Only Mode
+
+Bhi available hoga.
+
+Friends milkar ek hi city bana sakte hain.
+
+---
+
+Public Transport
+
+Player design karega:
+
+- Railway Station
+- Train Routes
+- Bus Stops
+- Airport
+- Helipad
+- Taxi Stand
+- Metro Station
+- Parking
+
+Sab manually customize kiya ja sakta hai.
+
+---
+
+Energy Sources
+
+Player choose karega:
+
+- Solar Farm
+- Wind Farm
+- Hydroelectric Dam
+- Coal Plant
+- Gas Plant
+- Nuclear Power Plant
+
+Har source ke apne advantages aur disadvantages honge.
+
+---
+
+Nuclear Power Plant
+
+Bahut mehnga hoga.
+
+Lekin:
+
+- Bahut electricity produce karega.
+- Skilled workers chahiye honge.
+- Proper maintenance zaroori hogi.
+
+---
+
+Building Customization
+
+Har Government Building customize hogi.
+
+Player change kar sakta hai:
+
+- Logo
+- Wall Color
+- Roof
+- Windows
+- Interior
+- Garden
+- Parking
+- Decoration
+- Fence
+
+Har city unique dikh sakti hai.
+
+---
+
+Citizen Happiness
+
+Citizen Happiness directly affect karegi:
+
+- Income
+- Reputation
+- Population Growth
+- Complaints
+
+Happy citizens:
+
+- Zyada tax denge.
+- City nahi chhodenge.
+- Positive feedback denge.
+
+Unhappy citizens:
+
+- Complaint karenge.
+- Dusri city shift ho sakte hain.
+- Election me Mayor ke against vote kar sakte hain.
+
+---
+
+Dynamic Events
+
+Kabhi bhi city me events aa sakte hain.
+
+Examples:
+
+- Festival
+- Fair
+- Concert
+- Road Repair
+- Fire
+- Flood
+- Power Failure
+
+Player ko situation handle karni hogi.
+
+---
+
+NPC Daily Life
+
+NPC sirf idhar-udhar nahi ghoomenge.
+
+Unki daily routine hogi.
+
+Morning:
+
+- Uthna
+- Breakfast
+
+Day:
+
+- School
+- Office
+- Shopping
+
+Evening:
+
+- Park
+- Family
+- Friends
+
+Night:
+
+- Ghar
+
+Life Events:
+
+- Marriage
+- Children
+- Birthday
+- Retirement
+- Hospital Visit
+
+Har NPC apni alag life jeega.
+
+---
+
+Festivals
+
+Mayor organize kar sakta hai:
+
+- Diwali
+- Christmas
+- Food Festival
+- Music Festival
+- Science Fair
+- City Fair
+
+Festival ke liye:
+
+- Decoration
+- Stalls
+- Event Area
+- Security
+
+sab arrange karna hoga.
+
+Festival successful hua to:
+
+- Reputation badhegi.
+- Income badhegi.
+- Citizens khush honge.
+
+---
+
+BuildVerse Main Identity
+
+BuildVerse ka main goal sirf city banana nahi hai.
+
+Uska asli goal hai:
+
+«"Build a City, Then Live Inside It."»
+
+Player:
+
+- City banayega.
+- City manage karega.
+- City ke andar chalega.
+- Citizens ke saath interact karega.
+- Apni city ko ek living world ki tarah experience karega.
+
+Isi concept ki wajah se BuildVerse normal city-building games se alag identity rakhega.
+
+---
+
+Discussion Status
+
+✅ BuildVerse Discussion Completed.
+
+Iske baad DreamVerse ke agle Mega Mini Game ki discussion shuru hogi.
