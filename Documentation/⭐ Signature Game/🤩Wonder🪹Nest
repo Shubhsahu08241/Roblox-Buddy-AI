@@ -1,0 +1,1124 @@
+🎮 WonderNest Game Design Document (GDD) 
+
+Version: 0.1 (Concept Phase)
+
+Vision 
+
+WonderNest ek original multiplayer adventure game hai jiska main focus hai:
+
+🤝 Friends ke saath maza 😂 Funny moments 👁️ Mystery 🥚 Secrets 🌍 Living World 🎬 Creativity 📖 Community Stories 
+
+Ye game kisi ek genre me bandha hua nahi hai.
+
+Isme adventure, comedy, mystery, exploration aur player creativity sab ek hi duniya me naturally exist karte hain.
+
+Har login par player ko lage:
+
+"Aaj WonderNest me kya naya milega?"
+
+Main Concept 
+
+WonderNest ek Living World Adventure Game hai.
+
+Ye duniya kabhi completely reveal nahi hoti.
+
+Har player:
+
+Explore karta hai. Secrets discover karta hai. Hidden systems unlock karta hai. Duniya ko dheere-dheere samajhta hai. Apni stories create karta hai. 
+
+Game ka objective sirf jeetna nahi hai.
+
+Objective hai:
+
+WonderNest ki duniya ko discover karna.
+
+Core Philosophy 
+
+WonderNest kisi mission list ka game nahi hai.
+
+Ye curiosity ka game hai.
+
+Player ko baar-baar ye feeling aani chahiye:
+
+"Ye kya tha?" "Ye pehle nahi tha!" "Isko kaise unlock kiya?" "Friend ko bulao, usko bhi dikhana hai!" Main Gameplay Loop 
+
+Explore
+
+↓
+
+Discover
+
+↓
+
+Unlock
+
+↓
+
+Experiment
+
+↓
+
+Create Memories
+
+↓
+
+Find New Secrets
+
+↓
+
+Repeat
+
+Har update me naye secrets add kiye ja sakte hain.
+
+Main Objective 
+
+Player ka goal hai:
+
+Duniya explore karna. Hidden fragments discover karna. Secret NPCs dhoondhna. Funny aur mysterious events experience karna. Friends ke saath adventures create karna. Community ke liye content banana. 
+
+Game intentionally player ko har cheez directly explain nahi karega.
+
+Discovery gameplay ka part hogi.
+
+Identity 
+
+WonderNest ki sabse badi pehchaan:
+
+Every session should feel different.
+
+Har server me kuchh alag ho sakta hai.
+
+Har player ko alag experiences mil sakte hain.
+
+WonderNest Name 
+
+Wonder
+
+Surprise
+
+Curiosity
+
+Adventure
+
+Discovery
+
+Nest
+
+Ek jagah jahan alag-alag ideas, stories aur secrets ek saath rehte hain.
+
+WonderNest ka meaning:
+
+Ek aisi duniya jahan har kone me koi naya surprise chhupa ho.
+
+Story Base 
+
+Bahut purani baat hai.
+
+Is duniya me ajeeb cheezein hamesha se exist karti thi.
+
+Kuchh jagah funny thi.
+
+Kuchh jagah mysterious.
+
+Kuchh jagah bilkul normal dikhti thi.
+
+Lekin...
+
+Normal kabhi thi hi nahi.
+
+Samay ke saath is duniya ke kai raaz kho gaye.
+
+Kuchh log unhe dhoondhte rahe.
+
+Kuchh log unpar yakeen hi nahi karte.
+
+Ab...
+
+Players WonderNest me aate hain.
+
+Unka kaam sirf game khelna nahi.
+
+Unka kaam hai:
+
+Is duniya ko samajhna.
+
+Uske raaz khojna.
+
+Aur dheere-dheere WonderNest ki asli kahani ko reveal karna.
+
+Ye kahani ek baar me nahi milegi.
+
+Har secret.
+
+Har hidden area.
+
+Har NPC.
+
+Har fragment.
+
+Is kahani ka ek chhota hissa hoga.
+
+World Design 
+
+WonderNest ek open-world style Living World hai.
+
+Ye duniya alag-alag zones me divided hogi.
+
+Har zone ki apni personality hogi.
+
+Koi zone funny hoga.
+
+Koi mysterious.
+
+Koi peaceful.
+
+Koi bilkul normal dikhega.
+
+Lekin har jagah kuchh na kuchh secret zaroor hoga.
+
+Player kabhi bhi poori duniya ek saath samajh nahi paayega.
+
+Har exploration me kuchh naya milna chahiye.
+
+Living World Philosophy 
+
+WonderNest ki duniya player ke aane ka wait nahi karti.
+
+World hamesha zinda rahega.
+
+NPC apna kaam karenge.
+
+Animals apni life jeeyenge.
+
+Weather change hoga.
+
+Kuchh events randomly honge.
+
+Kabhi funny.
+
+Kabhi strange.
+
+Kabhi mysterious.
+
+Player sirf us duniya ka ek hissa hai.
+
+Multiplayer Philosophy 
+
+WonderNest solo bhi enjoy kiya ja sakta hai.
+
+Lekin asli maza friends ke saath aata hai.
+
+Players milkar:
+
+Explore karenge. Secrets discover karenge. Hidden places dhoondhenge. Funny situations create karenge. Community memories banayenge. 
+
+Game ka design teamwork encourage karega.
+
+Lekin kisi player ko force nahi karega.
+
+Player Progression 
+
+WonderNest me progression sirf level se nahi hogi.
+
+Progression ke multiple types honge.
+
+Explorer Progress 
+
+Kitni duniya discover ki.
+
+Secret Progress 
+
+Kitne hidden secrets mile.
+
+Community Progress 
+
+Kitne players ne tumhari creations dekhi.
+
+Adventure Progress 
+
+Kitni unique events experience ki.
+
+Story Progress 
+
+Kitne lore fragments unlock kiye.
+
+Player ka progress uski journey batayega.
+
+Sirf XP nahi.
+
+Exploration Rules 
+
+Har location me kuchh interesting hona chahiye.
+
+Player ko kabhi aisa nahi lagna chahiye ki:
+
+"Yahan aane ka koi reason hi nahi tha."
+
+Har area me kam se kam ek:
+
+Secret Funny Moment Hidden NPC Rare Event Lore Piece 
+
+hona chahiye.
+
+Hidden Fragments System 
+
+WonderNest ki duniya chhote-chhote Hidden Fragments se bani hogi.
+
+Ye game ka sabse important design pillars me se ek hai.
+
+Har Fragment ek hidden experience hoga.
+
+Examples:
+
+Funny Fragment Horror Fragment Memory Fragment Time Fragment Movie Fragment Glitch Fragment Watcher Fragment 
+
+Ye sab main gameplay ka compulsory part nahi honge.
+
+Jo player explore karega.
+
+Usko reward milega.
+
+Secret Rooms 
+
+Kai fragments secret rooms ke through unlock honge.
+
+Ye rooms obvious nahi honge.
+
+Player ko:
+
+Observe karna padega.
+
+Experiment karna padega.
+
+Friends ke saath discuss karna padega.
+
+Kabhi-kabhi community milkar hi solution discover karegi.
+
+Discovery System 
+
+WonderNest player ko sab kuchh directly nahi batayega.
+
+Game intentionally kuchh cheezein chhupayega.
+
+Players:
+
+Khud experiment karenge.
+
+Khud theories banayenge.
+
+Khud discoveries share karenge.
+
+Ye discovery system WonderNest ki identity ka important part hoga.
+
+Player Memories 
+
+Game ka goal sirf progress banana nahi hai.
+
+Goal hai:
+
+Players ko aise moments dena jo wo yaad rakhen.
+
+Jaise:
+
+"Yaad hai hum us secret room me galti se ghus gaye the?"
+
+"Yaad hai woh funny NPC?"
+
+"Yaad hai hume woh hidden fragment mila tha?"
+
+WonderNest ki sabse badi achievement hogi:
+
+Players apni stories khud banayenge.
+
+Secret NPC System 
+
+WonderNest me kuchh NPC sabko dikhai denge.
+
+Lekin kuchh NPC sirf special conditions me hi milenge.
+
+Inhe Secret NPCs kaha jayega.
+
+Har Secret NPC ka apna behaviour, personality aur purpose hoga.
+
+Kuchh friendly honge.
+
+Kuchh funny.
+
+Kuchh mysterious.
+
+Kuchh player ko confuse karenge.
+
+Har Secret NPC ko dhoondhna bhi ek achievement hoga.
+
+Secret NPC Rules 
+
+Secret NPC kabhi bhi map par marker ke saath appear nahi honge.
+
+Player ko:
+
+Explore karna padega. Experiment karna padega. Clues follow karne padenge. Kabhi-kabhi teamwork karna padega. 
+
+Tab jaakar Secret NPC milenge.
+
+Secret NPC Rewards 
+
+Har Secret NPC kuchh unique de sakta hai.
+
+Examples:
+
+Rare dialogue Hidden information Secret Fragment Funny interaction Temporary special ability Hidden location ka clue 
+
+Har NPC alag reward dega.
+
+Easter Egg Philosophy 
+
+WonderNest me Easter Eggs sirf references nahi honge.
+
+Har Easter Egg ka koi purpose hoga.
+
+Example:
+
+Ek hidden room.
+
+Ek hidden event.
+
+Ek funny object.
+
+Ek invisible character.
+
+Ek impossible looking path.
+
+Player ko lage:
+
+"Ye developer ne seriously chhupaya tha!"
+
+Hidden Fragments Expansion 
+
+Har Hidden Fragment ek mini experience hoga.
+
+Examples:
+
+👁️ Watcher Fragment 
+
+Mysterious observations.
+
+Weird events.
+
+Hidden lore.
+
+😂 Funny Fragment 
+
+Talking objects.
+
+Strange NPC behaviour.
+
+Unexpected jokes.
+
+Living furniture.
+
+🐞 Glitch Fragment 
+
+Official hidden glitches.
+
+Fake bugs.
+
+Secret interactions.
+
+Community discoveries.
+
+🎬 Movie Fragment 
+
+Movie Studio.
+
+Actors.
+
+Special camera tools.
+
+Creative content.
+
+🪞 Memory Fragment 
+
+Old memories.
+
+Past events.
+
+Hidden history.
+
+Replay moments.
+
+⏳ Time Fragment 
+
+Time-related Secret NPC.
+
+Temporary gameplay changes.
+
+Rare events.
+
+Hidden Rooms 
+
+WonderNest me kai hidden rooms honge.
+
+Har room ka theme alag hoga.
+
+Player ko kabhi directly nahi bataya jayega.
+
+Room unlock karne ke tareeke:
+
+Puzzle Hidden switch NPC clue Teamwork Secret interaction Random rare event Community Discoveries 
+
+Developer har secret officially reveal nahi karega.
+
+Community khud discover karegi.
+
+Players:
+
+Videos banayenge. Friends ko batayenge. Theories banayenge. Discussions karenge. 
+
+Ye WonderNest ki community ko active rakhega.
+
+Funny Moments 
+
+Funny moments scripted bhi ho sakte hain.
+
+Aur random bhi.
+
+Examples:
+
+Object player se baat kare. NPC ajeeb answer de. Koi event bilkul unexpected ho. 
+
+Funny moments kabhi gameplay disturb nahi karenge.
+
+Sirf experience improve karenge.
+
+Hidden Dialogue 
+
+Kuchh NPC har player se same baat nahi karenge.
+
+Dialogue depend karega:
+
+Progress Discoveries Time Secret unlocks Random chance 
+
+Isse har player ka experience thoda alag hoga.
+
+Exploration Reward 
+
+WonderNest explore karna hamesha rewarding hona chahiye.
+
+Player ko kabhi aisa nahi lagna chahiye:
+
+"Main itni door aaya aur kuchh mila hi nahi."
+
+Chahe bada reward na mile.
+
+Lekin:
+
+Funny dialogue Secret clue Hidden object Lore NPC interaction 
+
+kuchh na kuchh zaroor milna chahiye.
+
+WonderNest Rule 
+
+Har secret discover karna compulsory nahi hai.
+
+Lekin...
+
+Jitna player explore karega.
+
+Utni WonderNest ki asli duniya uske saamne khulti jayegi.
+
+Isi wajah se har player ki journey alag hogi.
+
+The Watcher System 
+
+The Watcher WonderNest ka hidden mystery layer hai.
+
+Ye main villain nahi hai.
+
+Ye har player ke saamne nahi aata.
+
+Kuchh players usko kabhi nahi dekhenge.
+
+Kuchh players uske baare me sirf rumours sunenge.
+
+Aur kuchh lucky (ya unlucky) players uske encounters experience karenge.
+
+Is system ka purpose players ko daraana nahi.
+
+Purpose hai:
+
+Curiosity.
+
+Mystery.
+
+Discussion.
+
+Community theories.
+
+Watcher Rules 
+
+Watcher player ko random attack nahi karega.
+
+Wo observe karega.
+
+Kabhi door khada dikhega.
+
+Kabhi ek second ke liye.
+
+Kabhi sirf reflection me.
+
+Kabhi kisi object ke peeche.
+
+Kabhi sirf ek shadow.
+
+Player confirm hi nahi kar payega ki usne sach me dekha tha ya imagination thi.
+
+Funny + Horror Balance 
+
+WonderNest pure horror game nahi hai.
+
+Pure comedy game bhi nahi hai.
+
+Balance hamesha maintain rahega.
+
+Example:
+
+Player dara.
+
+5 minute baad...
+
+Ek talking chair bole:
+
+"Bhai bhaagna band kar, thak jayega."
+
+Is tarah tension toot jayegi.
+
+Game continuously horror mode me nahi rahega.
+
+Living Objects System 
+
+WonderNest me kuchh hidden places par objects zinda honge.
+
+Examples:
+
+Chair
+
+Table
+
+Tree
+
+Dustbin
+
+Lamp
+
+Painting
+
+Mirror
+
+Ye objects:
+
+Baat kar sakte hain.
+
+Joke maar sakte hain.
+
+Player ko confuse kar sakte hain.
+
+Clues de sakte hain.
+
+Ya bilkul ignore kar sakte hain.
+
+Har object ki apni personality hogi.
+
+Hidden Glitch System 
+
+WonderNest me kuchh glitches intentionally honge.
+
+Ye bugs nahi.
+
+Official hidden mechanics honge.
+
+Example:
+
+Wall ke andar secret passage.
+
+Weird visual.
+
+Object duplicate.
+
+Invisible bridge.
+
+Impossible jump.
+
+Game kabhi officially nahi bolega:
+
+"Ye secret hai."
+
+Community khud discover karegi.
+
+Rare Events 
+
+Kabhi-kabhi duniya me rare events honge.
+
+Ye schedule par nahi chalenge.
+
+Ye random bhi ho sakte hain.
+
+Conditions based bhi.
+
+Rare events ka purpose:
+
+Players ko baar-baar login karne ka reason dena.
+
+World Reactions 
+
+WonderNest ki duniya player ke actions ya discoveries par react kar sakti hai.
+
+Example:
+
+Ek hidden secret discover hua.
+
+Kuchh NPC ka dialogue badal gaya.
+
+Koi object naya behaviour dikhane laga.
+
+Ek hidden room unlock ho gaya.
+
+Ye reactions permanent bhi ho sakte hain.
+
+Temporary bhi.
+
+Mystery Philosophy 
+
+Game har question ka answer nahi dega.
+
+Kuchh cheezein intentionally unanswered rahengi.
+
+Community khud theories banayegi.
+
+Developer sab confirm nahi karega.
+
+Isse WonderNest ki mystery zinda rahegi.
+
+Fear Without Punishment 
+
+Watcher ya mysterious events ka purpose player ko punish karna nahi hai.
+
+Ye exploration ko interesting banana hai.
+
+Player ko curiosity feel honi chahiye.
+
+Na ki frustration.
+
+Community Stories 
+
+Developer ki story sirf aadhi hogi.
+
+Baaki aadhi story community banayegi.
+
+Players:
+
+Screenshots share karenge.
+
+Videos banayenge.
+
+Theories discuss karenge.
+
+Hidden discoveries compare karenge.
+
+Isi wajah se WonderNest ki duniya har update ke baad aur badi feel hogi.
+
+Design Rule 
+
+Har mysterious event ke baad player ko do feelings milni chahiye:
+
+"Ye kya tha?"
+
+"Mujhe dobara dekhna hai."
+
+Agar player sirf dar kar game band kar de...
+
+To system fail maana jayega.
+
+Agar player friend ko bula kar bole:
+
+"Chal tujhe kuchh dikhata hoon."
+
+To system successful maana jayega.
+
+Movie Studio System 
+
+Movie Studio WonderNest ka ek optional creative feature hai.
+
+Ye main gameplay ka compulsory part nahi hai.
+
+Jo players explore karenge aur unlock karenge, wahi is system ka use kar sakenge.
+
+Movie Studio ka purpose hai:
+
+Creativity Community Funny Moments Storytelling Movie Studio Unlock 
+
+Movie Studio shuru se available nahi hoga.
+
+Players ko:
+
+Explore karna hoga. Hidden clues dhoondhne honge. Secret Fragment discover karna hoga. 
+
+Tab jaakar Movie Studio unlock hoga.
+
+Studio Philosophy 
+
+Movie Studio ek normal video recorder nahi hai.
+
+Ye WonderNest ke andar ek proper creative workshop hai.
+
+Yahan players apni imagination se stories bana sakte hain.
+
+Developer sirf tools dega.
+
+Story players banayenge.
+
+Actor System 
+
+Movie banane ke liye actors chahiye.
+
+Players ko actors dhoondhne padenge.
+
+Har actor ki apni personality hogi.
+
+Examples:
+
+Villager Monkey King Guard Ghost Robot Rare Characters Secret Characters 
+
+Har actor har movie me kaam karne ke liye ready nahi hoga.
+
+Kuchh actors ko unlock karna padega.
+
+Kuchh actors sirf special conditions me milenge.
+
+Movie Creation 
+
+Player movie banate waqt:
+
+Actors choose karega. Camera set karega. Scene create karega. Environment choose karega. Dialogue add karega. Emotes aur animations use karega. 
+
+Future updates me aur tools add kiye ja sakte hain.
+
+Publish System 
+
+Movie complete hone ke baad player usko publish kar sakta hai.
+
+Published movies community dekh sakti hai.
+
+Community Features 
+
+Har published movie par:
+
+❤️ Like
+
+⭐ Favourite
+
+💬 Comment
+
+👥 Creator Follow
+
+jaise features available honge.
+
+Featured Movies 
+
+Future me developer best movies ko choose kar sakta hai.
+
+Unhe:
+
+⭐ Featured
+
+ya
+
+🎬 WonderNest Originals
+
+jaisa tag mil sakta hai.
+
+Best Creator 
+
+Movie creators ke liye alag recognition system ho sakta hai.
+
+Examples:
+
+Best Director Best Comedy Best Horror Best Adventure Best Story Best Trailer 
+
+Ye titles gameplay advantage nahi denge.
+
+Sirf achievement aur respect ke liye honge.
+
+Collaboration 
+
+Future updates me multiple players milkar ek movie bana sakte hain.
+
+Roles:
+
+Director Camera Actor Editor Voice Actor 
+
+Ye optional feature hoga.
+
+Movie Rewards 
+
+Movie publish karne par player ko rewards mil sakte hain.
+
+Rewards gameplay balance ko affect nahi karenge.
+
+Possible rewards:
+
+Cosmetic Items Titles Decorations Creator Badge Community Creativity 
+
+Movie Studio ka main goal hai:
+
+Players sirf game na khelen.
+
+Players WonderNest ki duniya ka use karke apni kahaniyan bhi bana saken.
+
+Har movie alag hogi.
+
+Har creator ki style alag hogi.
+
+Developer imagination ko limit nahi karega.
+
+Design Rule 
+
+Movie Studio kabhi bhi main gameplay ko replace nahi karega.
+
+Ye WonderNest ka creative extension hai.
+
+Jo player sirf adventure enjoy karna chahe...
+
+Wo bina Movie Studio ke bhi complete experience le sake.
+
+Jo player creator banna chahe...
+
+Uske liye Movie Studio ek nayi journey shuru karega.
+
+Future Expansion Philosophy 
+
+WonderNest ek aisa game design kiya jayega jise saalon tak expand kiya ja sake.
+
+Har update sirf naye items add nahi karega.
+
+Har update duniya ko aur zinda banayega.
+
+Players ko hamesha lage:
+
+"Is update me developer ne kya chhupa rakha hai?"
+
+Update Philosophy 
+
+Har update me kam se kam ek naya hidden experience hona chahiye.
+
+Examples:
+
+Hidden NPC Secret Room Hidden Fragment Funny Event Rare Interaction New Lore Piece Mystery 
+
+Players ko update ke baad explore karne ka reason milna chahiye.
+
+Community First 
+
+WonderNest ki sabse badi taakat uski community hogi.
+
+Players:
+
+Theories banayenge. Guides likhenge. Friends ko secrets dikhayenge. Movies banayenge. Funny moments share karenge. Hidden discoveries compare karenge. 
+
+Developer community ki creativity ko support karega.
+
+No Pay-to-Win 
+
+WonderNest me gameplay advantage paise se nahi milega.
+
+Premium ya future paid content sirf:
+
+Cosmetics Decorations Creator Tools Visual Items Optional Extras 
+
+tak limited rahega.
+
+Core gameplay sabke liye fair rahega.
+
+Developer Philosophy 
+
+Developer har secret reveal nahi karega.
+
+Kuchh cheezein intentionally hidden rahengi.
+
+Community ko khud discover karne diya jayega.
+
+Kabhi-kabhi developer sirf hints dega.
+
+Seedha answer nahi.
+
+Mix Vault 
+
+Development ke dauran bahut saare ideas discuss hue.
+
+Inme se kuchh main features bane.
+
+Kuchh future updates ke liye save kiye gaye.
+
+Kuchh Easter Eggs me convert kiye gaye.
+
+Mix Vault ka purpose hai:
+
+Koi bhi achha idea kabhi waste na ho.
+
+Future me zarurat padne par use improve karke add kiya ja sake.
+
+Core Design Pillars 
+
+WonderNest hamesha in principles ko follow karega:
+
+🤝 Friends First 
+
+Friends ke saath maza solo gameplay se bhi important hai.
+
+🌍 Living World 
+
+World player ke bina bhi zinda feel hona chahiye.
+
+🥚 Discovery 
+
+Secrets hamesha exploration reward hone chahiye.
+
+😂 Fun 
+
+Funny moments naturally gameplay ka hissa hone chahiye.
+
+👁️ Mystery 
+
+Har cheez ka answer turant nahi milna chahiye.
+
+🎬 Creativity 
+
+Players ko create karne ki freedom milni chahiye.
+
+❤️ Community 
+
+Community WonderNest ki growth ka important part hogi.
+
+Golden Rules 
+
+Kisi bhi existing game ki direct copy nahi karni.
+
+Inspiration li ja sakti hai.
+
+Har feature ko WonderNest ki identity ke hisaab se redesign kiya jayega.
+
+Funny aur mystery ka balance maintain rahega.
+
+Har update me kuchh discover karne layak hona chahiye.
+
+Har hidden system ka koi purpose hona chahiye.
+
+Players ko experiment karne ka reward milna chahiye.
+
+Community discussion ko encourage kiya jayega.
+
+Gameplay hamesha smooth aur accessible hona chahiye.
+
+WonderNest ka ultimate goal sirf game banana nahi...
+
+WonderNest ka goal hai:
+
+Players ko aise moments dena jo wo apne friends ko excitement ke saath sunaayen.
+
+Current Project Status 
+
+Working Title:
+
+WonderNest
+
+Development Stage:
+
+Concept Phase
+
+Document Version:
+
+0.1
+
+Status:
+
+Core Vision Completed
+
+Future sections (characters, maps, items, UI, economy, progression, quests, technical systems, etc.) development ke dauran alag documents me add kiye jayenge.
+
+WonderNest Expansion Notes (Version 0.2) Developer Mindset 
+
+WonderNest ko kabhi bhi "feature collection" nahi banana.
+
+Har naya feature ek reason ke saath add hoga.
+
+Question hamesha ye hoga:
+
+"Ye feature player ke experience ko better bana raha hai ya sirf list lambi kar raha hai?"
+
+Agar answer "No" hua...
+
+Feature reject kar diya jayega.
+
+Feature Priority 
+
+Development order:
+
+Core Gameplay Multiplayer Experience Living World Hidden Fragments Secret NPCs Funny Systems Mystery Systems Community Features Movie Studio Future Expansions Hidden Fragments Philosophy 
+
+Har Hidden Fragment optional hoga.
+
+Player bina uske bhi game enjoy kar sakega.
+
+Lekin jo player explore karega...
+
+Usko WonderNest ki asli depth samajh aayegi.
+
+Community Discovery Rule 
+
+Developer kabhi officially nahi bolega:
+
+"Congratulations! Tumne sab secrets discover kar liye."
+
+WonderNest me hamesha kuchh unknown rehna chahiye.
+
+Har update ke baad players fir se theories banana shuru kar dein.
+
+Replay Value 
+
+WonderNest ka replay value sirf missions se nahi aayega.
+
+Replay value aayega:
+
+Different players Different discoveries Different funny events Different community stories Different hidden interactions 
+
+Har baar kuchh alag feel hona chahiye.
+
+Player Freedom 
+
+Game player ko force nahi karega.
+
+Player choose karega:
+
+Explore karna hai. Friends ke saath masti karni hai. Secrets dhoondhne hain. Movie banani hai. Sirf time pass karna hai. 
+
+Har playstyle valid hogi.
+
+Long-Term Goal 
+
+WonderNest ka dream hai:
+
+Ek aisi duniya banana...
+
+Jahan players sirf game complete karne ke liye na aayein.
+
+Wo isliye laut kar aayein kyunki:
+
+"Yaar... WonderNest me ghoomte hain."
+
+Ye feeling hi WonderNest ki sabse badi success hogi.
+
+Development Motto 
+
+"Create memories, not just missions."
+
+Ye line WonderNest ke development ka permanent motto rahegi.
+
