@@ -1,0 +1,816 @@
+🧑‍🎓Student System
+
+---
+
+📅 Attendance System
+
+🎯 Attendance Method
+
+DreamVerse me Attendance System Mix System hoga.
+
+👨‍🏫 Normal Teachers
+
+- Attendance manually le sakte hain.
+- Student ka naam lekar ya class list ke hisaab se attendance mark karenge.
+
+⭐ Guest Professor / Special Faculty
+
+- Attendance automatically system dwara mark hogi.
+- Unka lecture time bahut important hota hai, isliye unka class time waste nahi hoga.
+
+---
+
+📊 Minimum Attendance
+
+Har college ki attendance requirement alag ho sakti hai.
+
+Minimum attendance percentage:
+
+- 🏛️ College Principal decide karega.
+- Har college ke rules alag ho sakte hain.
+
+---
+
+📅 Monthly Attendance Review
+
+Attendance har din record hogi.
+
+Lekin uski official checking:
+
+- 📅 Har mahine hogi.
+
+Jiski attendance kam hogi uske against action liya jayega.
+
+---
+
+⚠️ Attendance Action System
+
+Level 1
+
+⚠️ Warning
+
+---
+
+Level 2
+
+📩 Parents ko Message
+
+---
+
+Level 3
+
+👨‍💼 Principal Meeting
+
+---
+
+Level 4
+
+📝 Exam Restriction
+
+---
+
+Level 5
+
+Agar lagatar 5 Monthly Reviews me attendance requirement complete nahi hui:
+
+💰 Scholarship Cancel ho sakti hai.
+
+---
+
+📖 Timetable System
+
+📋 Timetable Availability
+
+Admission ke turant baad:
+
+📢 College Notice Board par Timetable available hoga.
+
+Player usse dekhkar classes attend kar sakta hai.
+
+---
+
+📱 Digital Timetable
+
+Admission ke baad:
+
+📱 Mobile / Student Profile me Timetable sync hone me lagbhag 2 Game Days lagenge.
+
+Uske baad:
+
+- Mobile
+- Student Profile
+- College System
+
+sab jagah timetable available rahega.
+
+---
+
+🔄 Timetable Update
+
+Har Semester me Timetable badal sakta hai.
+
+Reasons:
+
+- 👨‍🏫 Teacher Change
+- 📚 Subject Change
+- 🏛️ College Schedule Change
+- ⭐ Special Classes
+
+---
+
+📚 Teacher Absent System
+
+Agar Teacher class me nahi aata hai to system randomly decide karega.
+
+🟢 35%
+
+Free Period
+
+Student:
+
+- Friends se baat kar sakta hai.
+- Rest kar sakta hai.
+- Self activities kar sakta hai.
+
+---
+
+🟡 15%
+
+Substitute Teacher
+
+Dusra teacher class lega.
+
+---
+
+🔵 25%
+
+Practical Class
+
+Theory period ki jagah Practical ho sakta hai.
+
+---
+
+🟣 25%
+
+Self Study Period
+
+Students class me rahenge.
+
+Kar sakte hain:
+
+- Assignment
+- Notes Revision
+- Group Study
+- Book Reading
+
+---
+
+📝 Assignment System
+
+Assignment ke do types honge.
+
+💻 Online Submission
+
+Player assignment online upload kar sakta hai.
+
+---
+
+📄 Offline Submission
+
+Teacher ko physical assignment submit kiya ja sakta hai.
+
+Subject ke hisaab se Teacher decide karega ki assignment online hoga ya offline.
+
+---
+
+👥 Assignment Types
+
+Assignments:
+
+- 👤 Individual
+- 👥 Group
+
+Dono types ke ho sakte hain.
+
+NPC Students bhi assignment complete karenge.
+
+---
+
+⏰ Late Submission Rules
+
+Level 1
+
+⚠️ Warning
+
++ 
+
+🕒 Extension mil sakti hai
+
++ 
+
+📉 Thode Marks Cut ho sakte hain.
+
+---
+
+Level 2
+
+📉 Marks Cut
+
+---
+
+Level 3
+
+👨‍💼 Principal Action
+
+---
+
+🚫 Assignment Copying
+
+Assignment copy karte hue pakde gaye to:
+
+Level 1
+
+⚠️ Warning
+
+Level 2
+
+📉 Marks Cut
+
+Level 3
+
+👨‍💼 Principal Action
+
+---
+
+📊 Assignment Marks
+
+Har assignment ke marks final result me add honge.
+
+Lekin:
+
+⭐ Important Assignments
+
+Normal assignments se zyada marks denge.
+
+Marks milenge:
+
+- Quality
+- Completion
+- Presentation
+- Effort
+
+ke hisaab se.
+
+---
+
+🧪 Practical System
+
+🎯 Practical Schedule
+
+DreamVerse me Practical System real college ke hisaab se hoga.
+
+Isliye:
+
+- Kuch practicals har week ho sakte hain.
+- Kuch chapter complete hone ke baad honge.
+- Kuch semester ke end me honge.
+- Kuch sirf ek ya do baar honge.
+
+Har college aur har subject ka practical schedule alag ho sakta hai.
+
+---
+
+👨‍🔬 Practical Types
+
+Practical teen tarah ke ho sakte hain:
+
+👤 Individual Practical
+
+Player khud practical complete karega.
+
+---
+
+👥 Group Practical
+
+Kai students milkar practical karenge.
+
+---
+
+🔄 Hybrid Practical
+
+Kuch part individual hoga.
+
+Kuch group me karna padega.
+
+---
+
+❌ Practical Fail System
+
+Level 1
+
+⚠️ Warning
+
++ 
+
+🔄 Dobara Practical Chance
+
+---
+
+Level 2
+
+📉 Marks Cut
+
++ 
+
+🔄 Dobara Practical Chance
+
+---
+
+Level 3
+
+👨‍💼 Principal ke paas bheja jayega.
+
+---
+
+🎤 Practical Evaluation
+
+Practical ke marks sirf result dekhkar nahi milenge.
+
+Teacher dekhega:
+
+- Practical Performance
+- Understanding
+- Behaviour
+- Viva Answers
+- Participation
+
+Uske baad final marks milenge.
+
+---
+
+📚 Project System
+
+🎯 Project Types
+
+DreamVerse me real college ki tarah kai tarah ke projects honge.
+
+Examples:
+
+📝 Written Report
+
+💻 Computer Project
+
+🤖 Working Model
+
+🎤 Presentation
+
+🔬 Research Project
+
+Aur real colleges me jo bhi project types hote hain, wo bhi add honge.
+
+---
+
+👥 Project Types
+
+Projects ho sakte hain:
+
+- 👤 Individual
+- 👥 Group
+
+Subject ke hisaab se teacher decide karega.
+
+---
+
+📚 Project Help
+
+Player help le sakta hai:
+
+📚 Central Library
+
+💻 Computer Lab
+
+👨‍🏫 Teachers
+
+👨‍🎓 Friends
+
+❌ AI direct answer nahi batayega.
+
+Teacher bhi sirf hint aur direction dega, poora solution nahi.
+
+---
+
+📤 Project Submission
+
+Project complete hone ke baad process:
+
+1️⃣ Project Submit
+
+↓
+
+2️⃣ Presentation
+
+↓
+
+3️⃣ Viva
+
+↓
+
+4️⃣ Teacher Questions
+
+Is process se pata chalega kisne khud project banaya aur kisne cheating ki.
+
+---
+
+⭐ Extra Marks
+
+Jo player:
+
+- Achchha Presentation dega.
+- Viva achchha karega.
+- Teacher ke questions ka sahi jawab dega.
+
+Usse ⭐ Extra Marks mil sakte hain.
+
+---
+
+🚫 Project Copying
+
+Project copy karte hue pakde gaye to:
+
+Level 1
+
+⚠️ Warning
+
+---
+
+Level 2
+
+📉 Marks Cut
+
+---
+
+Level 3
+
+👨‍💼 Principal ke paas bheja jayega.
+
+---
+
+⏰ Project Deadline
+
+Project ki deadline hogi.
+
+Late submission par:
+
+Level 1
+
+⚠️ Warning
+
++ 
+
+🕒 Extension mil sakti hai
+
++ 
+
+📉 Marks Cut
+
+---
+
+Level 2
+
+👨‍💼 Principal Action
+
+Principal decide karega ki project accept karna hai ya nahi.
+
+---
+
+📊 Project Marks
+
+Har project ke marks final result me add honge.
+
+Important projects ke marks normal projects se zyada honge.
+
+Marks depend karenge:
+
+- Quality
+- Effort
+- Presentation
+- Research
+- Completion
+- Viva Performance
+
+par.
+
+---
+
+📝 Examination System
+
+🎯 Exam Types
+
+DreamVerse me real college ki tarah alag-alag exams honge.
+
+Examples:
+
+- 📝 Unit Test
+- 📚 Mid Semester Exam
+- 🎓 Final Semester Exam
+- 🧪 Practical Exam
+- 🎤 Viva
+- 🎲 Surprise Test
+- 📖 Open Book Exam (Sirf kuch colleges aur subjects me)
+- Aur real colleges me hone wale baaki exams bhi.
+
+---
+
+🎲 Surprise Test
+
+Teacher bina bataye kabhi bhi Surprise Test le sakta hai.
+
+Iska purpose:
+
+- Daily preparation check karna.
+- Student ki real knowledge dekhna.
+
+---
+
+📖 Open Book Exam
+
+Kuch colleges me Open Book Exam ho sakta hai.
+
+Student:
+
+- Book
+- Notes
+
+saath la sakta hai.
+
+Lekin questions aise honge ki sirf book dekhne se answer nahi milega. Samajhna bhi zaruri hoga.
+
+---
+
+🚫 Exam Cheating Rules
+
+Exam me cheating karte hue pakde gaye to koi warning nahi milegi.
+
+Pehli Baar
+
+👨‍💼 Seedha Principal ke paas.
+
+Agar baar-baar cheating kare:
+
+- Principal strict action lega.
+
+Agar lagatar 5 baar cheating me pakda gaya:
+
+❌ Exam Cancel ho sakta hai.
+
+Player agar smart tareeke se cheating kare aur pakda na jaye to bach sakta hai, lekin risk hamesha rahega.
+
+---
+
+🤒 Exam Miss System
+
+Bimaar
+
+Player ko application deni hogi.
+
+Medical reason batana hoga.
+
+Principal decide karega ki Re-Exam milega ya nahi.
+
+---
+
+🚑 Accident
+
+Player ya uske family members college ko inform karenge.
+
+Situation genuine hui to Re-Exam ka chance milega.
+
+---
+
+❌ Bina Reason
+
+Koi reason nahi diya.
+
+To:
+
+📄 Exam me Zero Marks milenge.
+
+---
+
+📊 Result System
+
+📢 Result Publish
+
+Result real college ki tarah kai jagah available hoga.
+
+- 📢 Notice Board
+- 📱 Student Profile
+- 👨‍👩‍👧 Parents Message (agar zarurat ho)
+
+Aur real college me jo system hota hai wo bhi follow hoga.
+
+---
+
+📋 Result Details
+
+Result me dikh sakta hai:
+
+- Subject Marks
+- Practical Marks
+- Assignment Marks
+- Attendance
+- Grade
+- Percentage
+- SGPA
+- CGPA
+- Pass / Fail Status
+- Rank (agar applicable ho)
+
+---
+
+📝 Result Rechecking
+
+Player chahe to Rechecking Application de sakta hai.
+
+😊 Fayda
+
+Agar teacher se galti se marks kam lag gaye hon to marks badh sakte hain.
+
+😎 Risk
+
+Agar teacher ko lage pehle galti se zyada marks mil gaye the, to marks kam bhi ho sakte hain.
+
+Rechecking player apne risk par karega.
+
+---
+
+📄 Marksheet System
+
+📄 Marksheet Types
+
+Player ko:
+
+- 📄 Physical Marksheet
+- 💻 Digital Marksheet
+
+dono milengi.
+
+---
+
+📱 Secret QR Code
+
+Har college ki marksheet me ek Secret QR Code ho sakta hai.
+
+Har college ka QR Code alag hoga.
+
+Scan karne par mil sakta hai:
+
+- 📜 College Information
+- 🥚 Hidden Easter Egg
+- 🎁 Secret Reward
+- 🎮 Hidden Puzzle
+- ⭐ Special Message
+
+---
+
+📋 Marksheet Uses
+
+Real life ki tarah DreamVerse me bhi marksheet ka use hoga.
+
+Examples:
+
+- 🎓 Next Semester Admission
+- 💰 Scholarship Verification
+- 🏛️ Academic Records
+
+(Job ke liye generally Degree Certificate zyada important hoga.)
+
+---
+
+🎓 Graduation System
+
+🎉 Graduation
+
+College complete hone ke baad player ko milega:
+
+- 🎓 Graduation Ceremony
+- 📜 Degree Certificate
+- 🏅 Medal (Top Performers)
+- 📸 Graduation Photo
+- 🎉 Celebration
+
+Aur real colleges me jo traditions hote hain wo bhi include kiye jayenge.
+
+---
+
+💼 Degree Uses
+
+Degree real life ki tarah kaam karegi.
+
+Examples:
+
+- 💼 Jobs
+- 🎓 Higher Education
+- Government Opportunities
+- Professional Career
+
+---
+
+❌ Graduation Fail
+
+Agar Last Semester me fail hua:
+
+Principal decide karega:
+
+- Supplementary Exam milegi ya nahi.
+
+Uske liye application aur valid reason dena hoga.
+
+Supplementary nahi mili ya usme bhi fail hua to:
+
+🔄 Semester dobara repeat karna padega.
+
+---
+
+🎓 Graduation Ceremony
+
+Graduation Ceremony har server me alag hogi.
+
+Features:
+
+- 🎓 Stage Ceremony
+- 🏅 Degree Distribution
+- 📸 Group Photo
+- 👨‍🏫 Principal Speech
+- 👏 NPC Teachers aur Parents ki taaliyan
+
+Isse performance issue bhi nahi hoga aur event realistic lagega.
+
+---
+
+⭐ Student Progression
+
+Player real life ki tarah progress karega.
+
+Example:
+
+👶 Admission
+
+↓
+
+📚 Semester 1
+
+↓
+
+Semester 2
+
+↓
+
+Semester 3
+
+↓
+
+...
+
+↓
+
+🎓 Graduation
+
+↓
+
+💼 Career
+
+↓
+
+⭐ Promotion
+
+---
+
+🎓 Multiple Degrees
+
+Player ek se zyada degree kar sakta hai.
+
+Lekin:
+
+- Dono colleges ka timetable clash nahi hona chahiye.
+- Alag admission lena hoga.
+- Alag fees deni hogi.
+- Alag Student ID banegi.
+
+---
+
+🏛️ College After Graduation
+
+Graduation ke baad:
+
+Player officially college complete kar dega.
+
+Lekin:
+
+- 🎓 Alumni ke roop me kabhi bhi visit kar sakta hai.
+
+- 👨‍🏫 Teachers use pehchanenge.
+
+- 🎉 College Events me participate kar sakta hai.
+
+- 📸 Apni purani yaadein dekh sakta hai.
