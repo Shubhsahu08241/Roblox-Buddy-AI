@@ -1,0 +1,223 @@
+# 👥 DuneRealm — Team System
+
+## 🎯 Purpose
+
+DuneRealm ka Team System specially DuneRealm ki long mystery story ko multiplayer aur cooperative experience banane ke liye hoga.
+
+Player chahe to:
+
+- Solo play kar sakta hai
+- Friends ko invite kar sakta hai
+- NPCs ko recruit kar sakta hai
+- Friends + NPCs ki mixed team bana sakta hai
+
+Team banana compulsory nahi hoga.
+
+---
+
+# 👤 Solo Exploration
+
+Player bina kisi team ke poori DuneRealm mystery complete kar sakta hai.
+
+Solo player ko story complete karne se roka nahi jayega.
+
+Solo gameplay me player apne decisions aur investigation ke according progress karega.
+
+---
+
+# 👥 Friends Team
+
+Player DuneRealm me enter karte waqt friends ko invite kar sakta hai.
+
+Agar multiple players join karte hain, to sab:
+
+- Ek hi story instance me honge
+- Ek hi major story events dekhenge
+- Ek hi ancient world experience karenge
+- Ek hi mystery investigate karenge
+- Ek doosre ke saath freely explore karenge
+- Tasks aur clues ko aapas me divide kar sakenge
+
+---
+
+# 🤖 NPC Team
+
+Agar player friends ko invite nahi karta ya additional help chahta hai, to NPCs ko team me recruit kiya ja sakta hai.
+
+NPCs investigation aur exploration me player ki help kar sakte hain.
+
+NPCs ko permanent fixed roles me lock nahi kiya jayega.
+
+---
+
+# 👥 Mixed Team
+
+Player friends aur NPCs ko ek hi team me rakh sakta hai.
+
+Example:
+
+Player + 3 Friends + 2 NPCs
+
+Sab ek hi shared story experience me participate karenge.
+
+---
+
+# 🌐 Dynamic Team Limit
+
+DuneRealm ki maximum team size fixed nahi hogi.
+
+Server performance aur current load ke according team capacity dynamically adjust ho sakti hai.
+
+Possible examples:
+
+- Low server load → Larger team
+- Medium server load → Medium team
+- High server load → Smaller team
+
+Exact limits development aur server testing ke baad finalize ki jayengi.
+
+Example testing limits:
+
+5 → 10 → 20
+
+Ye numbers final limits nahi hain.
+
+---
+
+# 🔄 Shared Story System
+
+Team ke sabhi players ek hi story progression me participate karenge.
+
+Agar 10 players ek saath past experience start karte hain, to sabhi ek hi shared ancient-world experience dekhenge.
+
+Alag-alag players ke liye separate story version nahi banega.
+
+---
+
+# ⏳ Synchronized Story Events
+
+Major story events team ke players ke liye synchronized honge.
+
+Example:
+
+Agar team past me enter karti hai:
+
+Player 1 → Past me enter  
+Player 2 → Past me enter  
+Player 3 → Past me enter  
+Player 4 → Past me enter
+
+Sab ek hi event ke part honge.
+
+---
+
+# 🧩 No Fixed Roles
+
+DuneRealm Team System me players ke permanent roles nahi honge.
+
+Kisi player ko permanently:
+
+- Investigator
+- Explorer
+- Historian
+- Fighter
+- Leader
+
+jaise role me lock nahi kiya jayega.
+
+Players khud decide karenge ki current situation me kaun kya karega.
+
+---
+
+# 🤝 Player Coordination
+
+Team members ko communicate aur coordinate karna padega.
+
+Example:
+
+> "Tum ye clue investigate karo."
+
+> "Main NPC se baat karta hoon."
+
+> "Tum log hidden entrance check karo."
+
+Players apni strategy khud bana sakte hain.
+
+---
+
+# 🔎 Duplicate Investigation
+
+Agar do ya zyada players same clue ya task investigate karna chahte hain, to unhe unnecessarily different roles assign nahi kiye jayenge.
+
+Players khud decide karenge ki kaun kya karega.
+
+---
+
+# 💰 NPC Recruitment
+
+NPCs ko recruit karne ke liye player ko:
+
+- NPC ko discover karna
+- Usse interact karna
+- Uska test/requirement complete karna
+- Zaroorat ke according payment karna
+
+pad sakta hai.
+
+Har NPC automatically team me available nahi hoga.
+
+---
+
+# 🕵️ Unknown Characters
+
+DuneRealm me kuch characters ki identity mysterious ho sakti hai.
+
+Player ko har character ki actual identity immediately pata nahi chalegi.
+
+Kuch characters ko samajhne ke liye investigation aur interaction karna padega.
+
+---
+
+# 🎮 Team Gameplay Philosophy
+
+Team system ka main purpose sirf players ki quantity badhana nahi hai.
+
+Team members:
+
+- Saath explore karenge
+- Clues discuss karenge
+- Decisions lenge
+- Mystery solve karenge
+- Dangerous situations handle karenge
+- Ancient world experience karenge
+- Story ke funny moments enjoy karenge
+
+---
+
+# 🔒 Important Rules
+
+- Team optional hai.
+- Solo completion possible hai.
+- Friends invite kiye ja sakte hain.
+- NPCs recruit kiye ja sakte hain.
+- Friends + NPCs ki mixed team possible hai.
+- Team size server load ke according adjust ho sakti hai.
+- Fixed player roles nahi honge.
+- Major story events synchronized honge.
+- Team ke sabhi players shared story instance me honge.
+- Past experience team ke liye shared experience hoga.
+- Past me repeat entry nahi hogi.
+
+---
+
+# ⭐ Core Principle
+
+**Solo player → Complete the mystery alone.**
+
+**Team player → Complete the same mystery together.**
+
+**Friends + NPCs → Shared investigation experience.**
+
+**No fixed roles → Players decide how to cooperate.**
+
+**Dynamic capacity → Server performance decides practical team size.**
