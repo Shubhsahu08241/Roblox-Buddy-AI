@@ -1,0 +1,70 @@
+name: Generate 195 DreamVerse Country Zones
+
+on:
+  push:
+    paths:
+      - '.github/dreamverse-country-zones-data.txt'
+      - '.github/workflows/generate-195-country-zones.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate 195 country files
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import shutil
+
+          groups = [
+            ('🌍 NORTH AFRICA',6),('🌍 WEST AFRICA',16),('🌍 EAST AFRICA',18),('🌍 CENTRAL & SOUTHERN AFRICA',14),
+            ('🌍 WESTERN EUROPE',9),('🌍 NORTHERN EUROPE',8),('🌍 CENTRAL EUROPE',10),('🌍 SOUTHERN EUROPE',11),
+            ('🌍 EASTERN EUROPE',6),('🌍 MIDDLE EAST',19),('🏜️ CENTRAL ASIA',5),('🌏 SOUTH ASIA',8),
+            ('🏝️ SOUTHEAST ASIA',11),('🌏 EAST ASIA',5),('🌊 OCEANIA & PACIFIC',14),('🌎 NORTH & CENTRAL AMERICA',9),
+            ('🌎 CARIBBEAN & SOUTH AMERICA',26)
+          ]
+          rows=[]
+          for line in Path('.github/dreamverse-country-zones-data.txt').read_text(encoding='utf-8').splitlines():
+              if line.strip(): rows.append(line.split('|',2))
+          assert len(rows)==195, len(rows)
+          root=Path('Documentation/⭐ Signature Game/🏙️ DreamVerse/🏢 Building/🌍 WORLD COUNTRY ZONES')
+          root.mkdir(parents=True,exist_ok=True)
+          wanted={g for g,_ in groups}
+          for p in root.iterdir():
+              if p.is_dir() and p.name not in wanted: shutil.rmtree(p)
+              elif p.is_file() and p.name.isdigit(): p.unlink()
+          def flag(iso): return ''.join(chr(127397+ord(x)) for x in iso)
+          pos=0
+          for group,count in groups:
+              folder=root/group; folder.mkdir(parents=True,exist_ok=True)
+              selected=rows[pos:pos+count]; pos+=count
+              names=[r[0] for r in selected]
+              (folder/'README.md').write_text('# '+group+'\n\n**Country count:** '+str(count)+'\n\n'+'\n'.join('- '+flag(r[1])+' '+r[0].upper() for r in selected)+'\n',encoding='utf-8')
+              for country,iso,landmark in selected:
+                  f=flag(iso)
+                  text=f'''# {f} {country.upper()}\n\n## 🌍 REGION\n{group}\n\n## ⭐ MAIN REPRESENTATION\n{landmark}\n\n## 🏛️ STRUCTURE / LANDMARK\n{landmark}\n\n## 📍 LOCATION\nCountry ke main landmark area ko represent karne wala location.\n\n## 🎯 WHY FAMOUS\nYe country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.\n\n## 🌳 ENVIRONMENT\nCountry ke recognizable natural environment ko compact playable area mein represent kiya jayega.\n\n## 🏠 REPRESENTATIVE HOUSES\nLocal-style houses, compounds, apartments ya traditional homes ka recognizable mix.\n\n## 🛍️ SHOPS / MARKET\nLocal market, craft stalls, food shops aur normal player-use shops.\n\n## 🍽️ FOOD AREA\nCountry ki recognizable food culture se inspired food area.\n\n## 🛣️ ROAD / STREET STYLE\nLocal city streets, connecting roads aur countryside routes ka mix.\n\n## 🎭 CULTURAL DETAILS\nArchitecture, patterns, colors, crafts aur recognizable cultural decoration.\n\n## 🧍 NPC IDEAS\nFunny country-themed NPC behavior jo exploration ko interesting rakhe.\n\n## ⭐ SPECIAL FEATURE\n{landmark} ko zone ka memorable landmark moment banaya jayega.\n\n## 🔎 UNIQUE / RARE DISCOVERY\nHidden local discovery connected to the environment ya landmark.\n\n## 📝 BUILDING NOTES\nYe zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.\n'''
+                  (folder/f'{f} {country.upper()}.md').write_text(text,encoding='utf-8')
+          lines=['# 🌍 195 Country Zones — Master Index','', 'DreamVerse ke 195 country zones ko regional folders mein organize kiya gaya hai.','']
+          n=0
+          for group,count in groups:
+              lines += [f'## {group} — {count} Countries','']
+              for country,iso,_ in rows[n:n+count]:
+                  n+=1; lines.append(f'{n}. {flag(iso)} {country.upper()}')
+              lines.append('')
+          (root/'🌍 195 Country Zones — Master Index.md').write_text('\n'.join(lines),encoding='utf-8')
+          print('Generated',n,'country files.')
+          PY
+      - name: Commit generated documentation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Documentation/⭐\ Signature\ Game/🏙️\ DreamVerse/🏢\ Building/🌍\ WORLD\ COUNTRY\ ZONES
+          git diff --cached --quiet && exit 0
+          git commit -m "Add 195 DreamVerse country zones"
+          git push
