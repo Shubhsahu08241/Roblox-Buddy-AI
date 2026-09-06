@@ -7,43 +7,40 @@
 Cotton Tree Landmark
 
 ## 🏛️ STRUCTURE / LANDMARK
-**Cotton Tree Landmark** — Freetown.
+Cotton Tree Landmark
 
 ## 📍 LOCATION
-Freetown, Sierra Leone
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Historic symbolic landmark in the capital. DreamVerse mein is identity ko recognizable way mein represent kiya jayega, taki player ko country ka visual character turant samajh aaye.
-
-## 🏗️ DREAMVERSE VERSION
-Real-world structure ko country representation ke liye recognizable rakha jayega. Build karte waqt practical game-map limits ke hisaab se size, access aur surrounding layout adjust ho sakte hain, lekin main visual identity preserve rahegi.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Mountains, rainforest aur Atlantic coast. Zone ko compact rakha jayega, lekin important landscape cues clearly visible honge.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Colorful hillside homes aur courtyard houses. Housing area mein local-looking variations rahengi, taaki country zone ek hi type ke gharon ka copy na lage.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Markets aur coastal stalls. Market mein local-style stalls ke saath normal player-use shops bhi ho sakti hain.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Cassava, rice aur seafood area. Food area country ki recognizable food culture ko show karega.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Hilly city roads aur coastal routes. Main roads ko wider connectors se aur small streets ko local-style lanes se connect kiya jayega.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Textiles aur palm-inspired details. Decoration ka use environment ko recognizable banane ke liye hoga, bina zone ko unnecessarily crowded banaye.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Tour Guide NPC jo har baar alag hill ko Freetown ka best viewpoint bolta hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Is zone ka main special feature **Cotton Tree Landmark** ko surrounding environment ke saath ek strong landmark moment banana hoga.
+Cotton Tree Landmark ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-A hidden hillside lookout above the coast.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Country Zone ka goal **poori country ko literally recreate karna nahi**, balki us country ki strongest recognizable identity ko ek compact, interesting aur playable area mein represent karna hai. Main landmark, environment, housing, market, food aur cultural details ek dusre se connected feel hone chahiye.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

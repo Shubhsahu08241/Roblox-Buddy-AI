@@ -7,43 +7,40 @@
 Hassan II Mosque
 
 ## 🏛️ STRUCTURE / LANDMARK
-**Hassan II Mosque** — Casablanca.
+Hassan II Mosque
 
 ## 📍 LOCATION
-Casablanca, Morocco
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Major coastal mosque aur architectural landmark. DreamVerse mein is country ko recognizable visual identity ke saath represent kiya jayega.
-
-## 🏗️ DREAMVERSE VERSION
-Real-world landmark ko recognizable country representation ke roop mein rakha jayega. Map scale aur gameplay ke hisaab se practical size/layout changes ho sakte hain, lekin main identity preserve rahegi.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Atlas Mountains, Sahara aur Atlantic coast.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Riad-style courtyards aur colorful homes.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Souks, spice markets aur craft lanes.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Tagine, couscous aur mint-tea area.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Medina lanes, boulevards aur desert routes.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Zellige tilework, arches aur lanterns.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Souk NPC jo vending machine se bhi bargain karne ki koshish karta hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
 Hassan II Mosque ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-a hidden riad courtyard behind a souk shop.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko literally recreate karne ke bajay us country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ek connected area ki tarah build kiye jayenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

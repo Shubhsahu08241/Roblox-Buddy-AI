@@ -1,0 +1,22 @@
+# 🌍 EAST AFRICA
+
+**Country count:** 18
+
+- 🇧🇮 BURUNDI
+- 🇰🇲 COMOROS
+- 🇩🇯 DJIBOUTI
+- 🇪🇷 ERITREA
+- 🇪🇹 ETHIOPIA
+- 🇰🇪 KENYA
+- 🇲🇬 MADAGASCAR
+- 🇲🇼 MALAWI
+- 🇲🇺 MAURITIUS
+- 🇲🇿 MOZAMBIQUE
+- 🇷🇼 RWANDA
+- 🇸🇨 SEYCHELLES
+- 🇸🇴 SOMALIA
+- 🇸🇸 SOUTH SUDAN
+- 🇹🇿 TANZANIA
+- 🇺🇬 UGANDA
+- 🇿🇲 ZAMBIA
+- 🇿🇼 ZIMBABWE

@@ -7,43 +7,40 @@
 Arch of Marcus Aurelius
 
 ## 🏛️ STRUCTURE / LANDMARK
-**Arch of Marcus Aurelius** — Tripoli.
+Arch of Marcus Aurelius
 
 ## 📍 LOCATION
-Tripoli, Libya
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Historic Roman-era landmark. DreamVerse mein is country ko recognizable visual identity ke saath represent kiya jayega.
-
-## 🏗️ DREAMVERSE VERSION
-Real-world landmark ko recognizable country representation ke roop mein rakha jayega. Map scale aur gameplay ke hisaab se practical size/layout changes ho sakte hain, lekin main identity preserve rahegi.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Sahara, Mediterranean coast aur oases.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Courtyard homes aur low-rise urban buildings.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Souks aur spice markets.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Couscous aur grilled-food area.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Mediterranean city roads aur desert routes.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Roman arches aur North African patterns.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Desert NPC jo har jagah ek palm tree dhoondhta rehta hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
 Arch of Marcus Aurelius ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-a buried Roman-style side passage.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko literally recreate karne ke bajay us country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ek connected area ki tarah build kiye jayenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

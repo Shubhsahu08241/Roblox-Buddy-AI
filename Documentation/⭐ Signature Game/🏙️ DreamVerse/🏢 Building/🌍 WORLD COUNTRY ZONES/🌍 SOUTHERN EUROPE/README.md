@@ -1,0 +1,15 @@
+# 🌍 SOUTHERN EUROPE
+
+**Country count:** 11
+
+- 🇦🇱 ALBANIA
+- 🇭🇷 CROATIA
+- 🇬🇷 GREECE
+- 🇮🇹 ITALY
+- 🇲🇹 MALTA
+- 🇲🇪 MONTENEGRO
+- 🇲🇰 NORTH MACEDONIA
+- 🇸🇲 SAN MARINO
+- 🇷🇸 SERBIA
+- 🇪🇸 SPAIN
+- 🇻🇦 HOLY SEE

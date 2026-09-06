@@ -7,40 +7,40 @@
 Fiat Tagliero Building
 
 ## 🏛️ STRUCTURE / LANDMARK
-Fiat Tagliero Building — Asmara
+Fiat Tagliero Building
 
 ## 📍 LOCATION
-Asmara, Eritrea
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Distinctive modernist architecture.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Highlands, dry lowlands aur Red Sea coast.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Italian-influenced villas aur courtyard homes.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-City markets aur small cafes.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Injera aur spiced-food stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Broad highland streets aur dry-country roads.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Art Deco details aur colorful textiles.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Architecture NPC jo har building ki shape judge karta hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Main landmark ko zone ka memorable landmark moment banaya jayega.
+Fiat Tagliero Building ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
 Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

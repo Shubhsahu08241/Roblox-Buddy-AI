@@ -7,43 +7,40 @@
 Meroe Pyramids
 
 ## 🏛️ STRUCTURE / LANDMARK
-**Meroe Pyramids** — Meroe.
+Meroe Pyramids
 
 ## 📍 LOCATION
-Meroe, Sudan
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Famous Nubian pyramid landscape. DreamVerse mein is country ko recognizable visual identity ke saath represent kiya jayega.
-
-## 🏗️ DREAMVERSE VERSION
-Real-world landmark ko recognizable country representation ke roop mein rakha jayega. Map scale aur gameplay ke hisaab se practical size/layout changes ho sakte hain, lekin main identity preserve rahegi.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Nile Valley, Sahara aur desert plains.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Mud-brick courtyard homes.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Desert markets aur craft stalls.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Ful, kisra aur grilled-food area.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Desert tracks aur Nile-side roads.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Nubian patterns aur sandstone details.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Pyramid NPC jo pyramids count karta hai aur har baar number bhool jata hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
 Meroe Pyramids ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-a buried chamber near the pyramid field.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko literally recreate karne ke bajay us country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ek connected area ki tarah build kiye jayenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

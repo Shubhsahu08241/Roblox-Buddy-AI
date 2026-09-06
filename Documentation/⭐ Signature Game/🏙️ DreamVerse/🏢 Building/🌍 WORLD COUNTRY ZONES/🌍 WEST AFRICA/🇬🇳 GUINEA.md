@@ -7,40 +7,40 @@
 Grand Mosque of Conakry
 
 ## 🏛️ STRUCTURE / LANDMARK
-Grand Mosque of Conakry — Conakry
+Grand Mosque of Conakry
 
 ## 📍 LOCATION
-Conakry, Guinea
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Major religious aur urban landmark.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Coast, hills aur tropical forests.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Courtyard compounds aur coastal homes.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Busy markets aur harbor-side shops.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Rice, sauces aur seafood stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Busy city roads aur red-earth routes.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Textiles, carving aur coastal details.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Taxi NPC jo player ko bina pooche scenic route par le jata hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Main landmark ko zone ka memorable landmark moment banaya jayega.
+Grand Mosque of Conakry ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
 Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

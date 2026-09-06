@@ -7,40 +7,40 @@
 Mount Kilimanjaro
 
 ## 🏛️ STRUCTURE / LANDMARK
-Mount Kilimanjaro — Kilimanjaro Region
+Mount Kilimanjaro
 
 ## 📍 LOCATION
-Kilimanjaro Region, Tanzania
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Africa ka iconic mountain landmark aur safari identity.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Savanna, highlands, forests aur Indian Ocean coast.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Rural homes, town houses aur coastal homes.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Safari markets, craft stalls aur town shops.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Ugali, nyama choma aur tropical food stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Safari tracks, mountain roads aur city routes.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Beadwork, textiles aur safari motifs.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Safari Guide NPC jo har animal ko 'rare' bolta hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Mountain-to-safari landscape transition.
+Mount Kilimanjaro ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-Hidden wildlife viewpoint.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark aur environment connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

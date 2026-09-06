@@ -1,0 +1,20 @@
+# 🌍 WEST AFRICA
+
+**Country count:** 16
+
+- 🇧🇯 BENIN
+- 🇧🇫 BURKINA FASO
+- 🇨🇻 CABO VERDE
+- 🇨🇮 CÔTE D'IVOIRE
+- 🇬🇲 GAMBIA
+- 🇬🇭 GHANA
+- 🇬🇳 GUINEA
+- 🇬🇼 GUINEA-BISSAU
+- 🇱🇷 LIBERIA
+- 🇲🇱 MALI
+- 🇲🇷 MAURITANIA
+- 🇳🇪 NIGER
+- 🇳🇬 NIGERIA
+- 🇸🇳 SENEGAL
+- 🇸🇱 SIERRA LEONE
+- 🇹🇬 TOGO

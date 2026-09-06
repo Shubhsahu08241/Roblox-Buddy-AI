@@ -1,0 +1,18 @@
+# 🌊 OCEANIA & PACIFIC
+
+**Country count:** 14
+
+- 🇦🇺 AUSTRALIA
+- 🇫🇯 FIJI
+- 🇰🇮 KIRIBATI
+- 🇲🇭 MARSHALL ISLANDS
+- 🇫🇲 MICRONESIA
+- 🇳🇷 NAURU
+- 🇳🇿 NEW ZEALAND
+- 🇵🇼 PALAU
+- 🇵🇬 PAPUA NEW GUINEA
+- 🇼🇸 SAMOA
+- 🇸🇧 SOLOMON ISLANDS
+- 🇹🇴 TONGA
+- 🇹🇻 TUVALU
+- 🇻🇺 VANUATU

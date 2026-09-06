@@ -7,40 +7,40 @@
 Lake Assal Landscape
 
 ## 🏛️ STRUCTURE / LANDMARK
-Lake Assal Landscape — Lake Assal
+Lake Assal Landscape
 
 ## 📍 LOCATION
-Lake Assal, Djibouti
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Famous salt-lake aur volcanic landscape.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Volcanic desert, salt lakes aur Gulf coast.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Simple low-rise homes aur courtyard compounds.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Port markets aur small local shops.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Spiced rice, flatbread aur seafood stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Desert roads aur port-city streets.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Desert textiles aur coastal details.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Heat Tourist NPC jo har waqt ice shop dhundhta hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Main landmark ko zone ka memorable landmark moment banaya jayega.
+Lake Assal Landscape ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
 Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

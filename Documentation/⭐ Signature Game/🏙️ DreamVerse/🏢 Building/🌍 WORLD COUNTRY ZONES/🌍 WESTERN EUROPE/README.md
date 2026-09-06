@@ -1,0 +1,13 @@
+# 🌍 WESTERN EUROPE
+
+**Country count:** 9
+
+- 🇦🇩 ANDORRA
+- 🇧🇪 BELGIUM
+- 🇫🇷 FRANCE
+- 🇮🇪 IRELAND
+- 🇱🇺 LUXEMBOURG
+- 🇲🇨 MONACO
+- 🇳🇱 NETHERLANDS
+- 🇵🇹 PORTUGAL
+- 🇬🇧 UNITED KINGDOM

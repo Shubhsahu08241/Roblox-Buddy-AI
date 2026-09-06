@@ -7,40 +7,40 @@
 Arch 22
 
 ## 🏛️ STRUCTURE / LANDMARK
-Arch 22 — Banjul
+Arch 22
 
 ## 📍 LOCATION
-Banjul, Gambia
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Recognizable capital-city monument.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-River delta, savanna aur coastal areas.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Courtyard compounds aur colorful homes.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Busy markets aur riverfront stalls.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Benachin aur peanut-based food area.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Busy city roads aur village routes.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-West African textile aur craft details.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Tour Guide NPC jo har baar alag history sunata hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Main landmark ko zone ka memorable landmark moment banaya jayega.
+Arch 22 ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
 Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

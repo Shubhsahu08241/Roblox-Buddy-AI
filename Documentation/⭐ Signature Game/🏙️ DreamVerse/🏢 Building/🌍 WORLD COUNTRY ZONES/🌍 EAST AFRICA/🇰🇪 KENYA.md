@@ -4,43 +4,43 @@
 🌍 EAST AFRICA
 
 ## ⭐ MAIN REPRESENTATION
-Nairobi National Park / Nairobi Skyline
+Mount Kenya Landscape
 
 ## 🏛️ STRUCTURE / LANDMARK
-Nairobi National Park — Nairobi
+Mount Kenya Landscape
 
 ## 📍 LOCATION
-Nairobi, Kenya
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Wildlife aur city-near-nature experience.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Savanna, highlands, lakes aur Indian Ocean coast.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Urban apartments, compounds aur rural homes.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Craft markets aur city shopping streets.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Nyama choma, ugali aur tea stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-City roads, safari routes aur rural tracks.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Beadwork, textiles aur safari-inspired details.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Safari Photographer NPC jo har moving animal ki photo lene bhagta hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Wildlife area aur city environment ko ek memorable contrast mein rakha jayega.
+Mount Kenya Landscape ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-Hidden wildlife viewpoint.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

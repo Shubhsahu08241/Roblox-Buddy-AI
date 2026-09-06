@@ -7,40 +7,40 @@
 Cape Coast Castle
 
 ## 🏛️ STRUCTURE / LANDMARK
-Cape Coast Castle — Cape Coast
+Cape Coast Castle
 
 ## 📍 LOCATION
-Cape Coast, Ghana
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Historic coastal castle.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Coastline, forest aur savanna.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Compound homes aur colorful coastal houses.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Markets, craft shops aur beach stalls.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Jollof, waakye aur grilled-food area.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Busy city roads aur coastal routes.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Kente-inspired patterns aur colorful details.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Tourist NPC jo castle courtyard mein hi lost ho jata hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Main landmark ko zone ka memorable landmark moment banaya jayega.
+Cape Coast Castle ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
 Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

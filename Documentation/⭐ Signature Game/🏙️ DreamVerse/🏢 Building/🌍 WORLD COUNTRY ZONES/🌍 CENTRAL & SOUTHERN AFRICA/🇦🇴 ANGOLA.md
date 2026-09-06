@@ -7,40 +7,40 @@
 Fortaleza de São Miguel
 
 ## 🏛️ STRUCTURE / LANDMARK
-Fortaleza de São Miguel — Luanda
+Fortaleza de São Miguel
 
 ## 📍 LOCATION
-Luanda, Angola
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Historic fortress with coastal views.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Atlantic coast, savanna and tropical landscapes.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Bright courtyard homes and urban houses.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Street markets and coastal shops.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Muamba and grilled-food stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Busy coastal roads and inland routes.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Portuguese-influenced architecture and local patterns.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Market NPC who keeps rearranging the same fruit stand.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Coastal fortress viewpoint.
+Fortaleza de São Miguel ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-Hidden coastal lookout.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark aur environment connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

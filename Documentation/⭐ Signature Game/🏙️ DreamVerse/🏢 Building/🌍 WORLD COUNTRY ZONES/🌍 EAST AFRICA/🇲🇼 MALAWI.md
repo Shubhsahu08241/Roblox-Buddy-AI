@@ -4,43 +4,43 @@
 🌍 EAST AFRICA
 
 ## ⭐ MAIN REPRESENTATION
-Lake Malawi Waterfront
+Lake Malawi Shoreline
 
 ## 🏛️ STRUCTURE / LANDMARK
-Lake Malawi Waterfront — Mangochi area
+Lake Malawi Shoreline
 
 ## 📍 LOCATION
-Lake Malawi, Malawi
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Lake Malawi aur scenic lakeside environment.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Lake, hills, forests aur savanna.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Village homes, brick houses aur lakeside cottages.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Lakeside markets aur craft stalls.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Chambo fish, nsima aur fruit stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Lakeside roads aur countryside tracks.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Basketry, textiles aur lake motifs.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Fisherman NPC jo har fish ko 'biggest catch' bolta hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Lakeside landscape ko zone ka memorable feature banaya jayega.
+Lake Malawi Shoreline ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-Hidden lakeside viewpoint.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

@@ -7,40 +7,40 @@
 Great Zimbabwe Ruins
 
 ## 🏛️ STRUCTURE / LANDMARK
-Great Zimbabwe Ruins — Masvingo
+Great Zimbabwe Ruins
 
 ## 📍 LOCATION
-Masvingo, Zimbabwe
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Ancient stone city ruins.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Savanna, granite landscapes and woodland.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Stone, brick and rural homes.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Craft markets and village stalls.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Sadza, grilled food and fruit stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Savanna roads and town routes.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Stonework, sculpture and local craft motifs.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Ruins Explorer NPC who checks every stone for a secret door.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Ancient stone city viewpoint.
+Great Zimbabwe Ruins ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-Hidden stone passage.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark aur environment connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

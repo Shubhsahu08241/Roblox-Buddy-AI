@@ -1,0 +1,15 @@
+# 🏝️ SOUTHEAST ASIA
+
+**Country count:** 11
+
+- 🇧🇳 BRUNEI
+- 🇰🇭 CAMBODIA
+- 🇮🇩 INDONESIA
+- 🇱🇦 LAOS
+- 🇲🇾 MALAYSIA
+- 🇲🇲 MYANMAR
+- 🇵🇭 PHILIPPINES
+- 🇸🇬 SINGAPORE
+- 🇹🇭 THAILAND
+- 🇹🇱 TIMOR-LESTE
+- 🇻🇳 VIETNAM

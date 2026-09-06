@@ -1,0 +1,14 @@
+# 🌍 CENTRAL EUROPE
+
+**Country count:** 10
+
+- 🇦🇹 AUSTRIA
+- 🇧🇦 BOSNIA AND HERZEGOVINA
+- 🇨🇿 CZECHIA
+- 🇩🇪 GERMANY
+- 🇭🇺 HUNGARY
+- 🇱🇮 LIECHTENSTEIN
+- 🇵🇱 POLAND
+- 🇸🇰 SLOVAKIA
+- 🇸🇮 SLOVENIA
+- 🇨🇭 SWITZERLAND

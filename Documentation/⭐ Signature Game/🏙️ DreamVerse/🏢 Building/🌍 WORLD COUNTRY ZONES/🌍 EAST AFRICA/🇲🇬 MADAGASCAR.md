@@ -7,40 +7,40 @@
 Avenue of the Baobabs
 
 ## 🏛️ STRUCTURE / LANDMARK
-Avenue of the Baobabs — Menabe
+Avenue of the Baobabs
 
 ## 📍 LOCATION
-Menabe, Madagascar
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Iconic baobab landscape aur island biodiversity.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Rainforest, baobab areas, mountains aur beaches.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Wooden homes aur tropical houses.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Local craft markets aur village shops.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Rice, seafood aur tropical fruit stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Red-earth roads aur coastal routes.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Baobab, wildlife aur Malagasy craft motifs.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Animal Collector NPC jo har animal ko photo ke liye chase karta hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Baobab road ko zone ka memorable landmark moment banaya jayega.
+Avenue of the Baobabs ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-Hidden wildlife trail.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

@@ -7,40 +7,40 @@
 Murchison Falls
 
 ## 🏛️ STRUCTURE / LANDMARK
-Murchison Falls — Nile region
+Murchison Falls
 
 ## 📍 LOCATION
-Murchison Falls National Park, Uganda
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Powerful waterfall and wildlife landscape.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Lakes, Nile, rainforest and savanna.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Rural compounds and urban homes.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Local markets and craft stalls.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Matoke, grilled food and fruit stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Safari routes and city roads.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Basketry, textiles and wildlife motifs.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Waterfall Tourist NPC who shouts every time water splashes.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Waterfall scenic viewpoint.
+Murchison Falls ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-Hidden forest trail.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark aur environment connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

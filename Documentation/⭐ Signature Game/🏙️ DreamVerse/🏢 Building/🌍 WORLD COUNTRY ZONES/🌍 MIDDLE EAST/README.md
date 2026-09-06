@@ -1,0 +1,23 @@
+# 🌍 MIDDLE EAST
+
+**Country count:** 19
+
+- 🇦🇲 ARMENIA
+- 🇦🇿 AZERBAIJAN
+- 🇧🇭 BAHRAIN
+- 🇨🇾 CYPRUS
+- 🇬🇪 GEORGIA
+- 🇮🇷 IRAN
+- 🇮🇶 IRAQ
+- 🇮🇱 ISRAEL
+- 🇯🇴 JORDAN
+- 🇰🇼 KUWAIT
+- 🇱🇧 LEBANON
+- 🇴🇲 OMAN
+- 🇵🇸 PALESTINE STATE
+- 🇶🇦 QATAR
+- 🇸🇦 SAUDI ARABIA
+- 🇸🇾 SYRIA
+- 🇹🇷 TÜRKIYE
+- 🇦🇪 UNITED ARAB EMIRATES
+- 🇾🇪 YEMEN

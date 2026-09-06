@@ -4,43 +4,43 @@
 🌍 EAST AFRICA
 
 ## ⭐ MAIN REPRESENTATION
-Vallée de Mai Nature Reserve
+Vallée de Mai Landscape
 
 ## 🏛️ STRUCTURE / LANDMARK
-Vallée de Mai Nature Reserve — Praslin
+Vallée de Mai Landscape
 
 ## 📍 LOCATION
-Praslin, Seychelles
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Iconic tropical island nature and coco de mer.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Granite rocks, beaches, reefs and rainforest.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Tropical island homes and small villas.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Beach markets and craft stalls.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Fresh seafood and tropical fruit stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Small coastal roads and island paths.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Ocean, shell and tropical motifs.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Photographer NPC who takes a photo of every coconut.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Tropical reserve and beach combination.
+Vallée de Mai Landscape ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-Hidden granite-beach path.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark aur environment connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

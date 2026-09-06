@@ -1,0 +1,13 @@
+# 🌎 NORTH & CENTRAL AMERICA
+
+**Country count:** 9
+
+- 🇨🇦 CANADA
+- 🇨🇷 COSTA RICA
+- 🇸🇻 EL SALVADOR
+- 🇬🇹 GUATEMALA
+- 🇭🇳 HONDURAS
+- 🇲🇽 MEXICO
+- 🇳🇮 NICARAGUA
+- 🇵🇦 PANAMA
+- 🇺🇸 UNITED STATES

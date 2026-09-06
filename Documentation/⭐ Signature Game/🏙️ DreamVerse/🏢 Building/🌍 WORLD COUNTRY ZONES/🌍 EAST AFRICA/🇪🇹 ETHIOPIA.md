@@ -7,40 +7,40 @@
 Lalibela Rock-Hewn Churches
 
 ## 🏛️ STRUCTURE / LANDMARK
-Lalibela Rock-Hewn Churches — Lalibela
+Lalibela Rock-Hewn Churches
 
 ## 📍 LOCATION
-Lalibela, Ethiopia
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Ancient rock-hewn churches aur unique architecture.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Highlands, valleys aur dry landscapes.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Stone homes aur highland compounds.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Local markets, coffee stalls aur craft shops.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Injera, doro wat aur coffee area.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Mountain roads aur old-town paths.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Rock-cut motifs, textiles aur coffee culture.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Coffee NPC jo har conversation coffee offer se start karta hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Main landmark ko zone ka memorable landmark moment banaya jayega.
+Lalibela Rock-Hewn Churches ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
 Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

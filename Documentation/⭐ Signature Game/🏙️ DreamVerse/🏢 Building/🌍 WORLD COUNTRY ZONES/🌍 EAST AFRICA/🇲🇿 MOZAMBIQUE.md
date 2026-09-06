@@ -4,43 +4,43 @@
 🌍 EAST AFRICA
 
 ## ⭐ MAIN REPRESENTATION
-Fortaleza de Maputo
+Maputo Central Railway Station
 
 ## 🏛️ STRUCTURE / LANDMARK
-Fortaleza de Maputo — Maputo
+Maputo Central Railway Station
 
 ## 📍 LOCATION
-Maputo, Mozambique
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Historic fortress aur coastal city identity.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Indian Ocean coast, beaches, savanna aur forests.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Colorful coastal homes aur urban apartments.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Fish markets, craft stalls aur city shops.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Piri-piri seafood, matapa aur grilled-food stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Coastal avenues aur inland roads.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Portuguese-influenced architecture aur local art.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Beach Seller NPC jo har player ko same souvenir offer karta hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Coastal fortress aur beach environment ka strong combination.
+Maputo Central Railway Station ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-Hidden beach-side passage.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

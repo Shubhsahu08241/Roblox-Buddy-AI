@@ -4,43 +4,43 @@
 🌍 EAST AFRICA
 
 ## ⭐ MAIN REPRESENTATION
-Liido Beach
+Liido Beach Waterfront
 
 ## 🏛️ STRUCTURE / LANDMARK
-Liido Beach — Mogadishu
+Liido Beach Waterfront
 
 ## 📍 LOCATION
-Mogadishu, Somalia
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Recognizable Indian Ocean coastline.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Dry plains, beaches, ocean and rugged areas.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-Coastal homes and low-rise city buildings.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Fish markets and coastal shops.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Rice, sambusa and seafood stalls.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Coastal roads and city streets.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Textiles, ocean and market details.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Beach NPC who keeps moving his chair to the 'best' spot.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
-Oceanfront landmark area.
+Liido Beach Waterfront ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-Hidden coastal lookout.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko clearly represent karega. Landmark aur environment connected playable area mein rahenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

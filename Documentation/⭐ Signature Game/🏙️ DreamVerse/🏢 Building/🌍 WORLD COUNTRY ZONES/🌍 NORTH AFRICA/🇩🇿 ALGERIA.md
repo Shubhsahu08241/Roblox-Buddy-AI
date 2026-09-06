@@ -7,43 +7,40 @@
 Notre-Dame d'Afrique
 
 ## 🏛️ STRUCTURE / LANDMARK
-**Notre-Dame d'Afrique** — Algiers.
+Notre-Dame d'Afrique
 
 ## 📍 LOCATION
-Algiers, Algeria
+Country ke main landmark area ko represent karne wala location.
 
 ## 🎯 WHY FAMOUS
-Historic basilica overlooking the Mediterranean. DreamVerse mein is country ko recognizable visual identity ke saath represent kiya jayega.
-
-## 🏗️ DREAMVERSE VERSION
-Real-world landmark ko recognizable country representation ke roop mein rakha jayega. Map scale aur gameplay ke hisaab se practical size/layout changes ho sakte hain, lekin main identity preserve rahegi.
+Ye country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.
 
 ## 🌳 ENVIRONMENT
-Sahara, Mediterranean coast aur rugged north.
+Country ke recognizable natural environment ko compact playable area mein represent kiya jayega.
 
 ## 🏠 REPRESENTATIVE HOUSES
-White courtyard houses aur coastal apartment blocks. Multiple local-style variations rahengi.
+Local-style houses, compounds, apartments ya traditional homes ka recognizable mix.
 
 ## 🛍️ SHOPS / MARKET
-Souks, bakeries aur spice stalls. Local market ke saath normal player-use shops bhi ho sakti hain.
+Local market, craft stalls, food shops aur normal player-use shops.
 
 ## 🍽️ FOOD AREA
-Couscous aur grilled-food corner.
+Country ki recognizable food culture se inspired food area.
 
 ## 🛣️ ROAD / STREET STYLE
-Wide city roads plus desert routes. Roads aur streets connected playable layout mein rahenge.
+Local city streets, connecting roads aur countryside routes ka mix.
 
 ## 🎭 CULTURAL DETAILS
-Mosaic, arches aur North African patterns.
+Architecture, patterns, colors, crafts aur recognizable cultural decoration.
 
 ## 🧍 NPC IDEAS
-Desert Tourist NPC jo baar-baar poochhta hai desert kahan se start hota hai.
+Funny country-themed NPC behavior jo exploration ko interesting rakhe.
 
 ## ⭐ SPECIAL FEATURE
 Notre-Dame d'Afrique ko zone ka memorable landmark moment banaya jayega.
 
 ## 🔎 UNIQUE / RARE DISCOVERY
-a half-buried desert ruin revealed after a sandstorm.
+Hidden local discovery connected to the environment ya landmark.
 
 ## 📝 BUILDING NOTES
-Ye zone poori country ko literally recreate karne ke bajay us country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ek connected area ki tarah build kiye jayenge.
+Ye zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.

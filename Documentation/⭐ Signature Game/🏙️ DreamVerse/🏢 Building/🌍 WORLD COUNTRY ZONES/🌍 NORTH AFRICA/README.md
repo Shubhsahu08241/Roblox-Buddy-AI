@@ -2,8 +2,6 @@
 
 **Country count:** 6
 
-Countries:
-
 - 🇩🇿 ALGERIA
 - 🇪🇬 EGYPT
 - 🇱🇾 LIBYA

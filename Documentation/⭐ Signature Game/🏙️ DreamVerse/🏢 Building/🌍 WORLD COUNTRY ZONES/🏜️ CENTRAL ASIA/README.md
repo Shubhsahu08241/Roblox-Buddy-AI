@@ -1,0 +1,9 @@
+# 🏜️ CENTRAL ASIA
+
+**Country count:** 5
+
+- 🇰🇿 KAZAKHSTAN
+- 🇰🇬 KYRGYZSTAN
+- 🇹🇯 TAJIKISTAN
+- 🇹🇲 TURKMENISTAN
+- 🇺🇿 UZBEKISTAN
