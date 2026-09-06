@@ -1,0 +1,101 @@
+name: Build DreamVerse 195 Country Zones
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/build-195-country-zones.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build country folders and files
+        shell: bash
+        run: |
+          python - <<'PY'
+          import subprocess, sys
+          subprocess.check_call([sys.executable, '-m', 'pip', 'install', 'pycountry', '-q'])
+          import pycountry
+          from pathlib import Path
+          import shutil
+
+          groups = {
+          '🌍 NORTH AFRICA': 'Algeria;Egypt;Libya;Morocco;Sudan;Tunisia',
+          '🌍 WEST AFRICA': "Benin;Burkina Faso;Cabo Verde;Côte d'Ivoire;Gambia;Ghana;Guinea;Guinea-Bissau;Liberia;Mali;Mauritania;Niger;Nigeria;Senegal;Sierra Leone;Togo",
+          '🌍 EAST AFRICA': 'Burundi;Comoros;Djibouti;Eritrea;Ethiopia;Kenya;Madagascar;Malawi;Mauritius;Mozambique;Rwanda;Seychelles;Somalia;South Sudan;Tanzania;Uganda;Zambia;Zimbabwe',
+          '🌍 CENTRAL & SOUTHERN AFRICA': 'Angola;Botswana;Cameroon;Central African Republic;Chad;Congo;Democratic Republic of the Congo;Equatorial Guinea;Eswatini;Gabon;Lesotho;Namibia;Sao Tome and Principe;South Africa',
+          '🌍 WESTERN EUROPE': 'Andorra;Belgium;France;Ireland;Luxembourg;Monaco;Netherlands;Portugal;United Kingdom',
+          '🌍 NORTHERN EUROPE': 'Denmark;Estonia;Finland;Iceland;Latvia;Lithuania;Norway;Sweden',
+          '🌍 CENTRAL EUROPE': 'Austria;Bosnia and Herzegovina;Czechia;Germany;Hungary;Liechtenstein;Poland;Slovakia;Slovenia;Switzerland',
+          '🌍 SOUTHERN EUROPE': 'Albania;Croatia;Greece;Italy;Malta;Montenegro;North Macedonia;San Marino;Serbia;Spain;Holy See',
+          '🌍 EASTERN EUROPE': 'Belarus;Bulgaria;Moldova;Romania;Russia;Ukraine',
+          '🌍 MIDDLE EAST': 'Armenia;Azerbaijan;Bahrain;Cyprus;Georgia;Iran;Iraq;Israel;Jordan;Kuwait;Lebanon;Oman;Palestine State;Qatar;Saudi Arabia;Syria;Türkiye;United Arab Emirates;Yemen',
+          '🏜️ CENTRAL ASIA': 'Kazakhstan;Kyrgyzstan;Tajikistan;Turkmenistan;Uzbekistan',
+          '🌏 SOUTH ASIA': 'Afghanistan;Bangladesh;Bhutan;India;Maldives;Nepal;Pakistan;Sri Lanka',
+          '🏝️ SOUTHEAST ASIA': 'Brunei;Cambodia;Indonesia;Laos;Malaysia;Myanmar;Philippines;Singapore;Thailand;Timor-Leste;Vietnam',
+          '🌏 EAST ASIA': 'China;Japan;Mongolia;North Korea;South Korea',
+          '🌊 OCEANIA & PACIFIC': 'Australia;Fiji;Kiribati;Marshall Islands;Micronesia;Nauru;New Zealand;Palau;Papua New Guinea;Samoa;Solomon Islands;Tonga;Tuvalu;Vanuatu',
+          '🌎 NORTH & CENTRAL AMERICA': 'Canada;Costa Rica;El Salvador;Guatemala;Honduras;Mexico;Nicaragua;Panama;United States',
+          '🌎 CARIBBEAN & SOUTH AMERICA': 'Antigua and Barbuda;Argentina;Bahamas;Barbados;Belize;Bolivia;Brazil;Chile;Colombia;Cuba;Dominica;Dominican Republic;Ecuador;Grenada;Guyana;Haiti;Jamaica;Paraguay;Peru;Saint Kitts and Nevis;Saint Lucia;Saint Vincent and the Grenadines;Suriname;Trinidad and Tobago;Uruguay;Venezuela'
+          }
+          landmarks = {
+          'Algeria':"Notre-Dame d'Afrique",'Egypt':'Great Pyramid of Giza','Libya':'Arch of Marcus Aurelius','Morocco':'Hassan II Mosque','Sudan':'Meroe Pyramids','Tunisia':'El Jem Amphitheatre',
+          'Benin':'Royal Palaces of Abomey','Burkina Faso':'Grand Mosque of Bobo-Dioulasso','Cabo Verde':'Cidade Velha Fortress',"Côte d'Ivoire":'Basilica of Our Lady of Peace','Gambia':'Arch 22','Ghana':'Cape Coast Castle','Guinea':'Grand Mosque of Conakry','Guinea-Bissau':'Fortaleza de São José da Amura','Liberia':'Providence Island','Mali':'Great Mosque of Djenné','Mauritania':'Chinguetti Old Town','Niger':'Agadez Grand Mosque','Nigeria':'National Arts Theatre','Senegal':'African Renaissance Monument','Sierra Leone':'Cotton Tree Landmark','Togo':'Grand Marché de Lomé',
+          'Burundi':'Gishora Drum Sanctuary','Comoros':'Karthala Volcano Landscape','Djibouti':'Lake Assal Landscape','Eritrea':'Fiat Tagliero Building','Ethiopia':'Lalibela Rock-Hewn Churches','Kenya':'Mount Kenya Landscape','Madagascar':'Avenue of the Baobabs','Malawi':'Lake Malawi Shoreline','Mauritius':'Le Morne Brabant','Mozambique':'Maputo Central Railway Station','Rwanda':'Kigali Convention Centre','Seychelles':'Vallée de Mai Landscape','Somalia':'Liido Beach Waterfront','South Sudan':'Nile River Waterfront','Tanzania':'Mount Kilimanjaro','Uganda':'Murchison Falls','Zambia':'Victoria Falls','Zimbabwe':'Great Zimbabwe Ruins',
+          'Angola':'Fortaleza de São Miguel','Botswana':'Okavango Delta Mokoro Area','Cameroon':'Mount Cameroon Landscape','Central African Republic':'Bangui Mosque & City Landmark','Chad':"Guelta d'Archei Landscape",'Congo':'Basilique Sainte-Anne','Democratic Republic of the Congo':'Kahuzi-Biéga Rainforest Landmark','Equatorial Guinea':'Bata Waterfront Landmark','Eswatini':'Mantenga Cultural Village','Gabon':'Lopé National Park Landscape','Lesotho':'Maletsunyane Falls','Namibia':'Sossusvlei Dunes','Sao Tome and Principe':'Pico Cão Grande','South Africa':'Table Mountain',
+          'Andorra':'Casa de la Vall','Belgium':'Atomium','France':'Eiffel Tower','Ireland':'Cliffs of Moher Visitor Landmark','Luxembourg':'Luxembourg Castle District','Monaco':"Prince's Palace",'Netherlands':'Kinderdijk Windmills','Portugal':'Belém Tower','United Kingdom':'Big Ben / Elizabeth Tower',
+          'Denmark':'Nyhavn','Estonia':'Tallinn Old Town','Finland':'Helsinki Cathedral','Iceland':'Hallgrímskirkja','Latvia':'Rundāle Palace','Lithuania':'Trakai Island Castle','Norway':'Oslo Opera House','Sweden':'Turning Torso',
+          'Austria':'Schönbrunn Palace','Bosnia and Herzegovina':'Stari Most','Czechia':'Prague Castle','Germany':'Brandenburg Gate','Hungary':'Hungarian Parliament Building','Liechtenstein':'Vaduz Castle','Poland':'Wawel Castle','Slovakia':'Bratislava Castle','Slovenia':'Lake Bled Castle','Switzerland':'Chapel Bridge',
+          'Albania':'Berat Castle','Croatia':'Dubrovnik Old Town Walls','Greece':'Parthenon','Italy':'Colosseum','Malta':'Ħaġar Qim Temples','Montenegro':'Bay of Kotor Old Town','North Macedonia':'Old Bazaar & Kale Fortress','San Marino':'Guaita Tower','Serbia':'Belgrade Fortress','Spain':'Sagrada Família','Holy See':"St. Peter's Basilica",
+          'Belarus':'Mir Castle','Bulgaria':'Rila Monastery','Moldova':'Orheiul Vechi','Romania':'Bran Castle','Russia':"Saint Basil's Cathedral",'Ukraine':'Saint Sophia Cathedral',
+          'Armenia':'Yerevan Cascade','Azerbaijan':'Heydar Aliyev Center','Bahrain':'Bahrain World Trade Center','Cyprus':'Paphos Castle','Georgia':'Narikala Fortress','Iran':'Nasir al-Mulk Mosque','Iraq':'Ishtar Gate-inspired Babylon Zone','Israel':'Baháʼí Gardens','Jordan':'Petra','Kuwait':'Kuwait Towers','Lebanon':'Jeita Grotto','Oman':'Sultan Qaboos Grand Mosque','Palestine State':'Dome of the Rock','Qatar':'Museum of Islamic Art','Saudi Arabia':'Maraya Concert Hall','Syria':'Umayyad Mosque','Türkiye':'Hagia Sophia','United Arab Emirates':'Burj Khalifa','Yemen':"Old City of Sana'a",
+          'Kazakhstan':'Baiterek Tower','Kyrgyzstan':'Burana Tower','Tajikistan':'Pamir Highway Mountain Landscape','Turkmenistan':'Darvaza Gas Crater Landscape','Uzbekistan':'Registan Square',
+          'Afghanistan':'Blue Mosque (Mazar-i-Sharif)','Bangladesh':'National Parliament House','Bhutan':'Punakha Dzong','India':'Taj Mahal','Maldives':'Velana Airport Island Setting','Nepal':'Boudhanath Stupa','Pakistan':'Badshahi Mosque','Sri Lanka':'Sigiriya',
+          'Brunei':'Omar Ali Saifuddien Mosque','Cambodia':'Angkor Wat','Indonesia':'Borobudur Temple','Laos':'Pha That Luang','Malaysia':'Petronas Twin Towers','Myanmar':'Shwedagon Pagoda','Philippines':'San Agustin Church','Singapore':'Marina Bay Sands','Thailand':'Grand Palace','Timor-Leste':'Cristo Rei of Dili','Vietnam':'Golden Bridge',
+          'China':'Great Wall of China','Japan':'Tokyo Skytree','Mongolia':'Genghis Khan Statue Complex','North Korea':'Juche Tower','South Korea':'N Seoul Tower',
+          'Australia':'Sydney Opera House','Fiji':"Fiji's Traditional Bure Village",'Kiribati':'Tarawa Lagoon Setting','Marshall Islands':'Majuro Atoll Lagoon','Micronesia':'Nan Madol','Nauru':'Buada Lagoon','New Zealand':'Sky Tower','Palau':'Rock Islands','Papua New Guinea':'Kokoda Track Landscape','Samoa':'To Sua Ocean Trench','Solomon Islands':'Marovo Lagoon Setting','Tonga':'Royal Palace of Tonga','Tuvalu':'Funafuti Atoll Lagoon','Vanuatu':'Mount Yasur Volcano',
+          'Canada':'CN Tower','Costa Rica':'National Theatre','El Salvador':'Santa Ana Cathedral','Guatemala':'Tikal','Honduras':'Copán Ruins','Mexico':'Chichen Itza','Nicaragua':'Masaya Volcano','Panama':'Panama Canal Miraflores Locks','United States':'Statue of Liberty',
+          'Antigua and Barbuda':"Nelson's Dockyard",'Argentina':'Obelisco','Bahamas':'Atlantis Paradise Island','Barbados':'Parliament Buildings','Belize':'Great Blue Hole','Bolivia':'Tiwanaku','Brazil':'Christ the Redeemer','Chile':'Moai of Rapa Nui','Colombia':'Las Lajas Sanctuary','Cuba':'El Capitolio','Dominica':'Morne Trois Pitons Landscape','Dominican Republic':'Alcázar de Colón','Ecuador':'Mitad del Mundo Monument','Grenada':'Fort George',"Guyana":"St. George's Cathedral",'Haiti':'Citadelle Laferrière','Jamaica':'Bob Marley Museum','Paraguay':'Palacio de los López','Peru':'Machu Picchu','Saint Kitts and Nevis':'Brimstone Hill Fortress','Saint Lucia':'Pitons','Saint Vincent and the Grenadines':'Tobago Cays Marine Park','Suriname':'Historic Inner City of Paramaribo','Trinidad and Tobago':"Queen's Park Savannah Landmark",'Uruguay':'Palacio Salvo','Venezuela':'Angel Falls'
+          }
+
+          root=Path('Documentation/⭐ Signature Game/🏙️ DreamVerse/🏢 Building/🌍 WORLD COUNTRY ZONES')
+          root.mkdir(parents=True,exist_ok=True)
+          wanted=set(groups)
+          for p in root.iterdir():
+              if p.is_dir() and p.name not in wanted: shutil.rmtree(p)
+              elif p.is_file() and p.name.isdigit(): p.unlink()
+          def flag_for(name):
+              aliases={'Sao Tome and Principe':'Sao Tome and Principe','Holy See':'Holy See','Palestine State':'Palestine','Türkiye':'Türkiye'}
+              try: c=pycountry.countries.lookup(aliases.get(name,name)); code=c.alpha_2
+              except Exception: code='UN'
+              return ''.join(chr(127397+ord(x)) for x in code)
+          for group,raw in groups.items():
+              countries=raw.split(';'); folder=root/group; folder.mkdir(parents=True,exist_ok=True)
+              (folder/'README.md').write_text('# '+group+'\n\n**Country count:** '+str(len(countries))+'\n\n'+'\n'.join('- '+flag_for(c)+' '+c.upper() for c in countries)+'\n',encoding='utf-8')
+              for c in countries:
+                  lm=landmarks.get(c,'Signature local landmark')
+                  f=flag_for(c)
+                  text=f'''# {f} {c.upper()}\n\n## 🌍 REGION\n{group}\n\n## ⭐ MAIN REPRESENTATION\n{lm}\n\n## 🏛️ STRUCTURE / LANDMARK\n{lm}\n\n## 📍 LOCATION\nCountry ke main landmark area ko represent karne wala location.\n\n## 🎯 WHY FAMOUS\nYe country apni recognizable history, culture, architecture, nature ya landmark identity ke liye known hai.\n\n## 🌳 ENVIRONMENT\nCountry ke recognizable natural environment ko compact playable area mein represent kiya jayega.\n\n## 🏠 REPRESENTATIVE HOUSES\nLocal-style houses, compounds, apartments ya traditional homes ka recognizable mix.\n\n## 🛍️ SHOPS / MARKET\nLocal market, craft stalls, food shops aur normal player-use shops.\n\n## 🍽️ FOOD AREA\nCountry ki recognizable food culture se inspired food area.\n\n## 🛣️ ROAD / STREET STYLE\nLocal city streets, connecting roads aur countryside routes ka mix.\n\n## 🎭 CULTURAL DETAILS\nArchitecture, patterns, colors, crafts aur recognizable cultural decoration.\n\n## 🧍 NPC IDEAS\nFunny country-themed NPC behavior jo exploration ko interesting rakhe.\n\n## ⭐ SPECIAL FEATURE\n{lm} ko zone ka memorable landmark moment banaya jayega.\n\n## 🔎 UNIQUE / RARE DISCOVERY\nHidden local discovery connected to the environment ya landmark.\n\n## 📝 BUILDING NOTES\nYe zone poori country ko clearly represent karega. Landmark, environment, houses, market, food, roads aur cultural details ko ek connected playable area ki tarah build kiya jayega.\n'''
+                  (folder/f'{f} {c.upper()}.md').write_text(text,encoding='utf-8')
+          lines=['# 🌍 195 Country Zones — Master Index','', 'DreamVerse ke 195 country zones ko regional folders mein organize kiya gaya hai.','']
+          n=0
+          for group,raw in groups.items():
+              countries=raw.split(';'); lines += [f'## {group} — {len(countries)} Countries','']
+              for c in countries: n+=1; lines.append(f'{n}. {flag_for(c)} {c.upper()}')
+              lines.append('')
+          (root/'🌍 195 Country Zones — Master Index.md').write_text('\n'.join(lines),encoding='utf-8')
+          print('Generated', n, 'country files across', len(groups), 'regional folders.')
+          PY
+      - name: Commit generated documentation
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Documentation/⭐\ Signature\ Game/🏙️\ DreamVerse/🏢\ Building/🌍\ WORLD\ COUNTRY\ ZONES
+          git diff --cached --quiet && exit 0
+          git commit -m "Add 195 DreamVerse country zone documentation"
+          git push
